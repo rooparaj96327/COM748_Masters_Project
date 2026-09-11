@@ -1,0 +1,35 @@
+case_doc_id,input_type,judgment_count,citation_mentions,mean_citations_per_judgment,correct_mentions,incomplete_mentions,incorrect_mentions,strict_defect_rate,incorrect_rate
+2023-002546-ryanair-dac-v-jason-lutz-appellant-skeleton,real,1,3,3.0,3,0,0,0.0,0.0
+ca-2023-002207-mr-demetrios-karpasitis-v-hertfordshire-county-appellant-skeleton,real,2,4,2.0,3,1,0,0.25,0.0
+ca-2023-002537-storm-global-limited-v-jason-lutz-appellant-skeleton,real,1,2,2.0,2,0,0,0.0,0.0
+ca-2024-000255-ellis-v-ssj-appellant-skeleton,real,4,7,1.75,6,0,1,0.14285714285714285,0.14285714285714285
+ca-2024-000255-the-king-on-the-application-of-appellant-skeleton,real,1,2,2.0,2,0,0,0.0,0.0
+ca-2024-000624 and ca-2024-000625-the-royal-embassy-of-saudi-arabia-appellant-skeleton,real,2,3,1.5,3,0,0,0.0,0.0
+ca-2024-000806-hippodrome-casino-ltd-v-hmrc-appellant-skeleton,real,3,5,1.6666666666666667,4,1,0,0.2,0.0
+ca-2024-001541-the-king-on-the-application-of-respondent-skeleton,real,3,6,2.0,6,0,0,0.0,0.0
+ca-2024-001951-ksy-juice-blends-uk-limited-v-skeleton,real,1,2,2.0,2,0,0,0.0,0.0
+ca-2024-002003-greenfields-iow-limited-v-isle-of-appellant-skeleton,real,1,2,2.0,2,0,0,0.0,0.0
+ca-2024-002325 & ca-2024-002295-modernatx-inc-v-pfizer-limited-others-appellant-skeleton,real,1,1,1.0,1,0,0,0.0,0.0
+ca-2024-0023525 & ca-2024-002295-modernatx-inc-v-pfizer-limited-others-respondent-skeleton,real,3,5,1.6666666666666667,5,0,0,0.0,0.0
+ew-cases-EWCA-Civ-2024-1,real,1,1,1.0,1,0,0,0.0,0.0
+ew-cases-EWCA-Civ-2024-1110,real,1,2,2.0,2,0,0,0.0,0.0
+greenfields--iow--limited-v-isle-of-wight-council---westridge-village-limited,real,3,5,1.6666666666666667,5,0,0,0.0,0.0
+karpasitis-v-hertfordshire-county-council,real,5,11,2.2,10,0,1,0.09090909090909091,0.09090909090909091
+ksy-juice-blends-uk-limited-v-citrosuco-gmbh,real,1,2,2.0,2,0,0,0.0,0.0
+skeleton-args-ca2015000120-c8bbd9c0f403a8f6,synthetic,1,2,2.0,0,2,0,1.0,0.0
+skeleton-args-ca2015008373-db13b0c8e36da3c2,synthetic,1,1,1.0,1,0,0,0.0,0.0
+skeleton-args-ca2016009836-d5eefd60a70a11d6,synthetic,1,1,1.0,1,0,0,0.0,0.0
+skeleton-args-ca2018006090-aa90566cb5f6b5de,synthetic,4,8,2.0,8,0,0,0.0,0.0
+skeleton-args-ca2019004792-59f1ed0831f20944,synthetic,1,3,3.0,3,0,0,0.0,0.0
+skeleton-args-ca2019005474-f7265b45a4e3f0ae,synthetic,1,2,2.0,1,1,0,0.5,0.0
+skeleton-args-ca2021006069-a7200646d94c4a22,synthetic,1,2,2.0,2,0,0,0.0,0.0
+skeleton-args-ca2022000651-1294462417e10289,synthetic,1,4,4.0,1,3,0,0.75,0.0
+skeleton-args-ca2022002088-9a827e5fc9cfa270,synthetic,2,5,2.5,5,0,0,0.0,0.0
+skeleton-args-ca2022004921-cb64a3102cee5019,synthetic,1,2,2.0,2,0,0,0.0,0.0
+skeleton-args-ca2022008247-6c5b4a1058f7a82b,synthetic,1,2,2.0,2,0,0,0.0,0.0
+skeleton-args-ca2023002207-ce0aafdf6d7e5716,synthetic,1,2,2.0,2,0,0,0.0,0.0
+skeleton-args-ca2023004634-299a4a730fe1f43a,synthetic,3,6,2.0,6,0,0,0.0,0.0
+skeleton-args-ca2024001234-346b2d683b5c2099,synthetic,2,5,2.5,5,0,0,0.0,0.0
+skeleton-args-ca2024009268-0b828a88e0027426,synthetic,1,2,2.0,2,0,0,0.0,0.0
+skeleton-args-ca2025000412-e17d5e10793fe216,synthetic,2,3,1.5,3,0,0,0.0,0.0
+skeleton-args-ca2025001247-4e7222cd1e12236a,synthetic,1,2,2.0,0,0,2,1.0,1.0

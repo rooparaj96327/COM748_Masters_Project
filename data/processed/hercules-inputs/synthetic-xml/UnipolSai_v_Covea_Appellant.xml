@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseId>ew-cases-EWCA-Civ-2024-1110</CaseId>
+    <CaseTitle>UnipolSai Assicurazioni S.p.A. v Covéa Insurance Plc</CaseTitle>
+    <CaseNumber>CA-2024-000572</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2024-07-18</FilingDate>
+    <PleadingType>Appellant's Case</PleadingType>
+    <Judges>Sir Julian Flaux (Chancellor of the High Court), Lord Justice Newey, Lord Justice Popplewell</Judges>
+  </Header>
+  <Party>
+    <Name>UnipolSai Assicurazioni S.p.A.</Name>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Aidan Christie KC and Rani Noakes (instructed by DWF Law LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant reinsurer seeks to overturn the arbitration Award and High Court judgment, arguing that Covid-19 losses do not constitute losses arising from "one catastrophe" under the Property Catastrophe Excess of Loss Reinsurance, and that the Hours Clause limits recovery to business interruption occurring only during the stipulated 168-hour period.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>Covéa provided cover to policyholders running children's nurseries and childcare facilities under its standard NurseryCare Policy wording, including non-damage business interruption cover.</item>
+    <item>The Covéa Reinsurance was a Property Catastrophe Excess of Loss Reinsurance by which Unipol reinsured Covéa.</item>
+    <item>Following the Covid-19 pandemic, the Government instructed all schools, colleges and early years facilities in England to close with effect from 20 March 2020.</item>
+    <item>By 8 June 2023, Covéa's paid losses under nursery care policies amounted to £69.3 million plus £3.2 million in loss adjuster's fees.</item>
+    <item>The arbitration tribunal (Sir Stephen Tomlinson, Michael Crane KC and Dominic Kendrick KC) found in favour of Covéa.</item>
+    <item>Foxton J dismissed Unipol's appeal under section 69 of the Arbitration Act 1996 on 28 February 2024.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>A "catastrophe" for the purposes of property catastrophe excess of loss reinsurance must be something capable of causing physical damage, based on the historical development of the LPO 98 wording and market practice.</item>
+    <item>A "catastrophe" requires a sudden and violent event or happening, as indicated by market commentaries in Butler &amp; Merkin and Kiln's Reinsurance in Practice describing catastrophes as "short, sharp and devastating".</item>
+    <item>The Covid-19 pandemic was not a "catastrophe" within the meaning of the Reinsurance because it was a gradual phenomenon lacking the suddenness required.</item>
+    <item>The judge conflated the nature of cover under Property Catastrophe XL reinsurance with stop loss/aggregate XL reinsurance; Catastrophe XL responds only to causative events, not losses themselves.</item>
+    <item>The judge wrongly assumed the terms of direct policies could be read across into the Reinsurance, contrary to the principle that XL reinsurance is not back-to-back with direct insurances.</item>
+    <item>For non-damage business interruption, the Hours Clause means that only losses occurring during the stipulated 168-hour period are recoverable, with business interruption losses occurring on a day-by-day basis.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Arbitration Act 1996, section 69 (appeals on questions of law)</item>
+    <item>Property Catastrophe Excess of Loss Reinsurance wording, including Condition 1 (Reinsuring Condition) and Condition 2 (Definition of Loss Occurrence/Hours Clause)</item>
+    <item>LPO 98 wording and its evolution in the reinsurance market</item>
+    <item>Axa Reinsurance v Field [1996] (principle that reinsurance should not be construed in light of underlying policies)</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Allow the appeal against the judge's order.</item>
+    <item>Declare that the outbreak of Covid-19 was not a "catastrophe" within the meaning of Condition 2(1) of the Reinsurance.</item>
+    <item>Alternatively, declare that for the purposes of the Hours Clause, business interruption losses occur on a day-by-day basis and only losses within the nominated 168-hour period are recoverable.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Axa Reinsurance (UK) Plc v Field [1996] 1 WLR 1026</Authority>
+    <Authority>Stonegate Pub Company Limited v MS Amlin [2022] EWHC 2548 (Comm)</Authority>
+    <Authority>FCA v Arch Insurance (UK) Ltd [2021] UKSC 1 (The FCA Test Case)</Authority>
+    <Authority>Simmonds v Gammell [2016] EWHC 2515 (Comm)</Authority>
+    <Authority>Butler &amp; Merkin's Reinsurance Law (2022)</Authority>
+    <Authority>RJ Kiln's Reinsurance in Practice (4th edition 2001)</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="2 March 2020">First death in UK of someone who tested positive for Covid-19.</Event>
+    <Event date="5 March 2020">Covid-19 made a "Notifiable Disease" in England.</Event>
+    <Event date="16 March 2020">Prime Minister's broadcast advising to avoid non-essential social contact and travel.</Event>
+    <Event date="18 March 2020">SAGE concluded evidence supported school closures; Government instructed all schools and nurseries to close with effect from 20 March 2020.</Event>
+    <Event date="20 March 2020">School and nursery closures took effect in England.</Event>
+    <Event date="26 March 2020">Health Protection (Coronavirus Restrictions) (England) Regulations came into force.</Event>
+    <Event date="16 April 2020">Restrictions renewed for further three weeks.</Event>
+    <Event date="1 June 2020">Phased reopening of schools, colleges and nurseries began.</Event>
+    <Event date="4 July 2020">First lockdown effectively ended.</Event>
+    <Event date="9 February 2024">Foxton J handed down judgment dismissing Unipol's appeal.</Event>
+    <Event date="28 February 2024">Judge's order dismissing the section 69 appeal.</Event>
+    <Event date="18 July 2024">Appeal hearing before Court of Appeal.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>This appeal, with the permission of the judge, Foxton J, is from his order dated 28 February 2024 dismissing the appeal of the appellant reinsurer ("Unipol") under section 69 of the Arbitration Act 1996 from an arbitration Award in favour of the respondent reinsured ("Covéa") concerning the recovery of business interruption losses caused by Covid-19 under a Property Catastrophe Excess of Loss Reinsurance.</Quote>
+    <Quote>The term 'Loss Occurrence' shall mean all individual losses arising out of and directly occasioned by one catastrophe.</Quote>
+    <Quote>168 consecutive hours for any Loss Occurrence of whatsoever nature which does not include individual loss or losses from any of the insured perils mentioned in any of the paragraphs (i), (ii), (iii) or (v) above.</Quote>
+    <Quote>Unipol contended that the judge had failed to recognise this distinction in his judgment... Catastrophe XL reinsurance is qualitatively different from other forms of reinsurance in that it responds only to causative events. It is triggered by events that cause loss, not the losses themselves.</Quote>
+    <Quote>Mr Kiln stated that in the revised wording drawn up against this background, the working party had used the words "occasioned by one catastrophe" because we felt it was more specific. It implied a violent happening which in itself caused damage.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>ew-cases-EWCA-Civ-2024-1110.xml</SourceFile>
+  </Provenance>
+</CasePleading>

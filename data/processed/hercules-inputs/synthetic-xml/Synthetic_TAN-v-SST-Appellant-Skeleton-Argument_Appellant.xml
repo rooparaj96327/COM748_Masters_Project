@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Transport Action Network Limited v Secretary of State for Transport</CaseTitle>
+    <CaseNumber>CA-2024-001234</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2024-05-15</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Transport Action Network Limited</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>James Thompson KC; Lucy Grant (instructed by Green &amp; Co Solicitors LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The appellant argues that the Secretary of State unlawfully reduced the funding allocated for cycling and walking investment, violating statutory requirements under section 21 of the Infrastructure Act 2015.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Secretary of State previously set a Cycling and Walking Investment Strategy which allocated £300m for cycling and walking initiatives.</item>
+    <item>On 9 March 2023, the Secretary of State announced a cut to this funding, reducing it by £200m.</item>
+    <item>The statutory variation process required under section 21 was not followed in making this funding decision.</item>
+    <item>No statutory authority has been identified to justify the funding cut outside the prescribed CWIS framework.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The phrase 'to be made available' in section 21 is clear and requires funding to be allocated as specified.</item>
+    <item>The Secretary of State's actions undermined the statutory purpose of providing certainty and stability in funding for cycling and walking.</item>
+    <item>The judge’s interpretation of 'to be made available' as merely 'intended to be made available' is incorrect.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Infrastructure Act 2015, section 21</item>
+    <item>Public Law principles regarding the legality of administrative decisions</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>A declaration that the decision to cut funding was unlawful.</item>
+    <item>An order for the Secretary of State to restore the funding to its original amount.</item>
+    <item>Costs of the appeal.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>R (on the application of Friends of the Earth) v Secretary of State for Environment [2015] EWCA Civ 776</Authority>
+    <Authority>R (on the application of B) v Secretary of State for Education [2019] EWCA Civ 590</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="2022-07-09">Secretary of State sets second Cycling and Walking Investment Strategy (CWIS2) with £300m funding.</Event>
+    <Event date="2023-03-09">Ministerial statement issued reducing funding from £300m to £100m.</Event>
+    <Event date="2024-05-15">Appellant files appeal against the decision in the Court of Appeal.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The resources specified 'must be made available' as part of the statutory framework.</Quote>
+    <Quote>The Secretary of State's prior discretion to allocate funds is replaced by a mandatory statutory requirement.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-TAN-v-SST-Appellant-Skeleton-Argument.pdf</SourceFile>
+  </Provenance>
+</CasePleading>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Webb v Ashworth &amp; Partners</CaseTitle>
+    <CaseNumber>CA-2024-009268</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-09-19</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Dr Marcus Webb</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Victoria Clarke KC; Elizabeth Taylor (instructed by Slaughter and May)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant contends that the Respondent firm of solicitors was negligent in failing to advise him of material risks associated with a property development investment, resulting in the loss of his £850,000 investment.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant instructed the Respondent in connection with his investment in a property development scheme in 2017.</item>
+    <item>The Respondent failed to advise that the developer had a history of failed projects and outstanding County Court judgments.</item>
+    <item>The Respondent did not explain the nature of the legal structure which left the Appellant's investment unsecured.</item>
+    <item>The development project collapsed in 2019 and the Appellant lost his entire investment of £850,000.</item>
+    <item>A competent solicitor would have discovered and advised on the developer's poor track record.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent owed a duty of care to advise on all material risks associated with the transaction.</item>
+    <item>A reasonably competent solicitor would have identified the developer's adverse history.</item>
+    <item>The Respondent failed to explain adequately the legal implications of the investment structure.</item>
+    <item>But for the Respondent's negligence, the Appellant would not have proceeded with the investment.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Solicitors Act 1974</item>
+    <item>Limitation Act 1980, s.14A</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Damages in the sum of £850,000</item>
+    <item>Interest</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>White v Jones [1995] 2 AC 207</Authority>
+    <Authority>Midland Bank Trust Co Ltd v Hett Stubbs &amp; Kemp [1979] Ch 384</Authority>
+    <Authority>Mehjoo v Harben Barker [2014] EWCA Civ 358</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="11 March 2021">Matter giving rise to proceedings first arose</Event>
+    <Event date="15 April 2021">Claimant first became aware of the alleged breach</Event>
+    <Event date="28 April 2021">Pre-action correspondence commenced</Event>
+    <Event date="22 May 2021">Claim issued in County Court/High Court</Event>
+    <Event date="14 March 2022">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="1 April 2022">Judgment handed down at first instance</Event>
+    <Event date="28 April 2022">Permission to appeal granted</Event>
+    <Event date="19 September 2022">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Ashworth &amp; Partners Solicitors failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-professional-negligence---solicitors.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

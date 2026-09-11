@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Crossfield Trading Ltd v Northern Commercial Bank Plc</CaseTitle>
+    <CaseNumber>CA-2015-008373</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-04-23</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Northern Commercial Bank Plc</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Catherine Thompson KC; Catherine Taylor (instructed by Allen &amp; Overy LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies liability and contends that the products were appropriate, that adequate explanations were provided, and that the Appellant is a sophisticated investor who understood and accepted the risks.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant was correctly classified as an elective professional client after completing appropriate documentation.</item>
+    <item>The product was suitable for the Appellant's stated hedging requirements.</item>
+    <item>The Appellant was provided with comprehensive product documentation including risk warnings.</item>
+    <item>The Appellant's directors confirmed in writing that they understood the product.</item>
+    <item>Break costs were clearly explained in the terms and conditions.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Appellant was correctly classified and treated as a professional client.</item>
+    <item>Appropriate advice and documentation was provided.</item>
+    <item>The product performed as explained and documented.</item>
+    <item>The claim is time-barred under the Limitation Act 1980.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Financial Services and Markets Act 2000</item>
+    <item>Financial Services and Markets Act 2000 (Regulated Activities) Order 2001</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the claim as time-barred</item>
+    <item>Alternatively, dismiss on merits</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Springwell Navigation Corp v JP Morgan Chase Bank [2010] EWCA Civ 1221</Authority>
+    <Authority>Titan Steel Wheels Ltd v Royal Bank of Scotland Plc [2010] EWHC 211 (Comm)</Authority>
+    <Authority>Barclays Bank Plc v Svizera Holdings BV [2014] EWHC 1020 (Comm)</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="15 March 2020">Matter giving rise to proceedings first arose</Event>
+    <Event date="10 May 2020">Claimant first became aware of the alleged breach</Event>
+    <Event date="17 May 2020">Pre-action correspondence commenced</Event>
+    <Event date="16 June 2020">Claim issued in County Court/High Court</Event>
+    <Event date="11 September 2021">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="23 October 2021">Judgment handed down at first instance</Event>
+    <Event date="29 November 2021">Permission to appeal granted</Event>
+    <Event date="23 April 2022">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Crossfield Trading Ltd's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-banking-and-finance.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

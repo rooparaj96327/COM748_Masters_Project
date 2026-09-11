@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>HMRC v Dolphin Drilling Ltd</CaseTitle>
+    <CaseNumber>CA-2022-002088</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-12-20</FilingDate>
+    <PleadingType>Respondent's Case</PleadingType>
+  </Header>
+  <Party>
+    <Name>Dolphin Drilling Ltd</Name>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Nicola Shaw KC (instructed by Ernst &amp; Young LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent contends that the Borgsten Dolphin should not be classified as a 'relevant asset' under Part 8ZA as any accommodation provided was ancillary to its primary TSV functions and constitutes incidental use within the statutory framework.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>Dolphin leased the Borgsten Dolphin and supplied it to Total E&amp;P UK for the Dunbar platform.</item>
+    <item>The Borgsten provided tender‑assisted drilling (TAD) and related TSV services.</item>
+    <item>Sleeping accommodation was provided for Total personnel (initially around 40 berths, later increased).</item>
+    <item>The relevant accounting periods were calendar years 2014 and 2015; Part 8ZA CTA 2010 applied with effect from 1 April 2014.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Borgsten’s primary function was as a template support vessel (TSV) providing tender‑assisted drilling and related services to the Dunbar platform; accommodation was ancillary to those services.</item>
+    <item>Any accommodation provided to Total personnel (initially 40 berths, later increased) was functionally connected to the TSV operations and thus no more than incidental within s.356LA(3).</item>
+    <item>On a proper construction of Part 8ZA, the asset should not be classified as a ‘relevant asset’ merely because it could provide accommodation; the legislative target was accommodation vessels and drilling rigs, not TSVs performing multi‑purpose support tasks.</item>
+    <item>The First‑tier Tribunal’s factual evaluation should be respected and was correctly upheld by the Upper Tribunal.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Corporation Tax Act 2010, Part 8ZA (Oil Contractors), including ss. 356K (overview), 356L (definitions), 356LA (relevant asset), 356M.</item>
+    <item>Finance Act 2014, s.73 and Schedule 16 (inserting Part 8ZA into CTA 2010).</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the appeal and uphold the Upper Tribunal’s decision.</item>
+    <item>Declare that the Borgsten is not a ‘relevant asset’ in the relevant periods because accommodation use was no more than incidental to its TSV functions.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Robson v Dixon (Pennycuick V-C) [1972] 1 WLR 1493</Authority>
+    <Authority>Proctor &amp; Gamble UK v HMRC [2009] EWCA Civ 407</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="1 August 2011">Total invited tenders for TAD and accommodation services for the Dunbar project.</Event>
+    <Event date="10 November 2011">Dolphin awarded Letter of Intent indicating intention to engage the Borgsten as a TSV with accommodation.</Event>
+    <Event date="1 February 2012">Contract signed between Total and Dolphin; accommodation initially specified for 40 Total personnel.</Event>
+    <Event date="1 October 2012">Commencement of services under the contract (per case narrative).</Event>
+    <Event date="1 April 2014">Part 8ZA of the CTA 2010 treated as coming into force.</Event>
+    <Event date="1 October 2014">Start of relevant accounting period for 2014.</Event>
+    <Event date="31 December 2014">End of 2014 accounting period.</Event>
+    <Event date="1 January 2015">Start of 2015 accounting period.</Event>
+    <Event date="31 December 2015">End of 2015 accounting period.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>Dolphin leased an asset called the Borgsten Dolphin (“the Borgsten”) from an
+associated company in Singapore called Borgsten Dolphin Pte Ltd (“BDPL”), and in
+turn provided it to Total E&amp;P UK Ltd (“Total”), the operator of the Dunbar oil platform
+(“the Dunbar”).</Quote>
+    <Quote>The Borgsten had formerly been a drilling rig but was converted so
+as to be able to provide a number of services in connection with the preparation of the
+Dunbar for drilling, and then the operation of the Dunbar.</Quote>
+    <Quote>Among other services, the
+Borgsten was used to provide sleeping accommodation for a number of those who
+worked on the Dunbar.</Quote>
+    <Quote>On the particular facts that will have been the case unless it was
+“reasonable to suppose” that the use of the Borgsten as accommodation for those who
+worked on the Dunbar “is unlikely to be more than incidental to another use, or other
+uses, to which [the Borgsten] is likely to be put”.</Quote>
+    <Quote>The question whether the hire cap applies to Dolphin’s payments to BDPL depends on
+whether the Borgsten was a “relevant asset”.</Quote>
+    <Quote>It is common
+ground that the Dunbar (which lies north-east of the Shetland Islands in the UK sector
+of the North Sea) is in a relevant offshore area, and that Dolphin provided the Borgsten
+to Total in connection with the carrying on of exploration or exploitation activities by
+Dolphin.</Quote>
+    <Quote>So the critical question is whether the Borgsten was a relevant asset.</Quote>
+    <Quote>HMRC v
+Dolphin Drilling Ltd
+(ii) provide accommodation for individuals who work on or
+from another structure used in a relevant offshore area for,
+or in connection with, exploration or exploitation activities
+(“offshore workers’’).</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>enhanced-case-5929e4f1-9ad2-46fe-add4-c74666673e03-1757682734656.json</SourceFile>
+  </Provenance>
+</CasePleading>

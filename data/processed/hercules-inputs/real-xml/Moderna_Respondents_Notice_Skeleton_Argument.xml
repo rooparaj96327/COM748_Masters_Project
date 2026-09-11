@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseId>ca-2024-0023525 &amp; ca-2024-002295-modernatx-inc-v-pfizer-limited-others-respondent-skeleton</CaseId>
+    <CaseTitle>Modernatx, Inc. v Pfizer Limited &amp; Others</CaseTitle>
+    <CaseNumber>CA-2024-0023525 &amp; CA-2024-002295</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate></FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>ModernaTX, Inc</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Piers Acland KC; Stuart Baran</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>ModernaTX, Inc, as the respondent, argues that the High Court's decision should be upheld. The appellants, BioNTech and Pfizer, challenge the characterization of Dr. Enright and the anticipation of certain claims related to mRNA technology. Moderna defends the original findings, emphasizing the lack of anticipation and the correct interpretation of scientific disclosures.</Summary>
+  </SummaryOfPosition>
+  <Introduction>
+    <item>1. This skeleton argument follows the section headings in Moderna’s Amended Respondent’s Notice. 1 Dr Enright</item>
+  </Introduction>
+  <FactsReliedOn>
+  </FactsReliedOn>
+  <Contentions>
+    <item>2. The Appellants contend that the Judge was wrong to characterise Dr Enright as a “pure, basic scientist” (Grounds of Appeal, paragraph 3). However the Judge correctly found that Dr Enright’s interests were well removed from the practical application of mRNA expression, whether for therapeutic or any other applied goals [51]. In so finding, the Judge could also have referred to the following by way of additional reasons: (a) Insofar as Dr Enright's research involved modified nucleosides, his interests lay in matters of fundamental biology - investigating the incidence of naturally occurring modifications in mRNA and seeking to understand their role in biological systems, rather than using modified nucleosides themselves for any practical purpose [T1/p110/9 -111/2]. (b) Additionally, Dr Enright's interests lay in types of RNA which are not themselves translated – microRNAs, piwi-RNAs and long non-coding RNAs [T1/p102/13-20]. In the case of microRNAs (the main focus of Dr Enright's work [T1/p67/15-20]) these are endogenous RNAs whose role is to down-regulate the expression of cellular genes [T1/p60/2-p62/6] – the very antithesis of improving the translation of mRNA. Routes 1 and 2</item>
+    <item>3. The Judge was not only right, but plainly entitled to find as he did in relation to the disclosure of Example 31, including at [321(vii)] that translation efficiency is only one of the things for testing proposed in [00290]. In this respect, the Judge could have relied upon additional reasons by making it explicit that: (a) [00290] also proposes testing for immunogenicity which is the subject of the majority of the Examples in UPenn as set out in Professor Rosenecker’s Annex 1 (with which Dr Enright agreed at T2/p267/4-7); and (b) testing for immunogenicity does not require the use of mRNA.</item>
+    <item>4. As an additional reason for finding that there was no anticipation by Routes 1 and 2, the Judge could have made it explicit that he rejected Pfizer/BioNTech’s argument (recorded in [314]) that [00290] individually discloses the use of Example 2 and with each of the 96 compounds listed in [00291].</item>
+    <item>5. The Judge rightly held that even if m1 was individually disclosed in Example 31, Routes 1 and 2 still required a selection from lists, as to which he concluded that claim 5 was not anticipated for the reasons given in [326] – [329]. The Judge could have expressly stated that claim 3 was not anticipated for the same or additional reasons, namely: (1) one of the RNAs in Example 2 is not an mRNA; (2) testing for immunogenicity does not require an mRNA (3) the absence of a sufficient “pointer” in relation to mRNA; and (4) the absence of any preference or “pointer” in relation to m1. 2 [0056]</item>
+    <item>6. At [379], the Judge rightly held that [0056] does not bear the weight that Pfizer/BioNTech sought to put on it, inter alia because there are multiple other lists in UPenn. One such list is contained in [0069], which the Judge rightly held in [375] would be understood to represent the modifications tested in UPenn. Dr Enright’s evidence was that the skilled person would see that of the six modified nucleosides identified in [0069],  was clearly the most promising modification tested in vitro and in cells, and that this would explain why it was the only one taken forward into animal studies [T2/p282/11-15]. Further the Judge could have distinguished between [0056] and [0069] on this basis. PIERS ACLAND KC STUART BARAN 17 April 2025 3</item>
+  </Contentions>
+  <LegalBasis>
+  </LegalBasis>
+  <ReliefSought>
+  </ReliefSought>
+  <AuthoritiesCited>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="2025-04-17">Filing of Moderna's Skeleton Argument</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Appellants contend that the Judge was wrong to characterise Dr Enright as a “pure, basic scientist”.</Quote>
+    <Quote>The Judge was not only right, but plainly entitled to find as he did in relation to the disclosure of Example 31.</Quote>
+    <Quote>The Judge rightly held that even if m1 was individually disclosed in Example 31, Routes 1 and 2 still required a selection from lists.</Quote>
+    <Quote>At [379], the Judge rightly held that [0056] does not bear the weight that Pfizer/BioNTech sought to put on it.</Quote>
+    <Quote>Dr Enright’s evidence was that the skilled person would see that of the six modified nucleosides identified in [0069],  was clearly the most promising modification.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <Source>Converted from PDF. Paragraphs, citations and statutory provisions extracted verbatim; sections classified with LLM assistance.</Source>
+    <SourceFile>Moderna-Respondents-Notice-Skeleton-Argument.pdf</SourceFile>
+  </Provenance>
+</CasePleading>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Transport Action Network Limited v Secretary of State for Transport</CaseTitle>
+    <CaseNumber>CA-2024-001234</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-01-07</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Secretary of State for Transport</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Counsel Name KC; Junior Counsel (instructed by Law Firm LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent submits that the Appellant's appeal lacks merit as the funding decisions were made within the legal framework set out by the Infrastructure Act 2015 and were based on thorough assessments of public funding needs.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>Prior to the implementation of s.21, funding for cycling and walking initiatives was inconsistent and lacked strategic oversight.</item>
+    <item>The decision to reduce funding was part of a broader governmental response to economic pressures and not an isolated or arbitrary choice.</item>
+    <item>The reductions in funding were communicated transparently through a ministerial statement and followed a comprehensive review of departmental budgets.</item>
+    <item>The adjustments made to CWIS2 were necessary corrections rather than substantive changes and were conducted in line with statutory requirements.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The phrase 'to be made available' in section 21 does not impose a mandatory duty on the Secretary of State but allows for discretion in financial planning.</item>
+    <item>The Appellant misinterprets the statutory purpose, which allows for adjustments based on economic circumstances while still providing a framework for funding consistency.</item>
+    <item>The judge's interpretation aligns with a reasonable understanding of fiscal policy and statutory obligations, and the Respondent's actions are consistent with the objectives of the Infrastructure Act.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Infrastructure Act 2015, Section 21</item>
+    <item>Public Finance Act 1988</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the appeal</item>
+    <item>Reinstate the decision of the lower court</item>
+    <item>Costs in favor of the Respondent</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Transport Action Network v SST [2022] PTSR 31</Authority>
+    <Authority>Friends of the Earth v SSBEIS [2023] 1 WLR 225</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="2022-11-22">Chancellor announced savings across government departments to manage financial pressures.</Event>
+    <Event date="2023-03-09">Ministerial statement issued detailing the reduction in funding for active travel.</Event>
+    <Event date="2023-10-26">Permission granted for the Appellant's appeal after an oral hearing.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Respondent's decision was a high-level resource allocation decision subject to broad discretion.</Quote>
+    <Quote>The funding reductions were necessitated by significant economic pressures facing the Department for Transport.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-TAN-v-SST-Respondent-Skeleton-Argument.pdf</SourceFile>
+  </Provenance>
+</CasePleading>

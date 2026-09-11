@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Webb v Ashworth &amp; Partners</CaseTitle>
+    <CaseNumber>CA-2024-009268</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-10-07</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Ashworth &amp; Partners Solicitors</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>William Clarke KC; Sarah Wilson (instructed by Hogan Lovells LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies negligence and maintains that it provided appropriate advice within the scope of its retainer, which was limited to conveyancing matters and did not extend to investment advice.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent was retained solely to handle the conveyancing aspects of the transaction.</item>
+    <item>The retainer did not extend to providing investment advice or conducting due diligence on the developer.</item>
+    <item>The Appellant was advised in writing to seek independent financial advice before proceeding.</item>
+    <item>The Appellant confirmed in writing that he understood the investment risks involved.</item>
+    <item>The structure of the investment was clearly explained in the documentation provided.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The scope of the retainer was limited to conveyancing and did not extend to investment advice.</item>
+    <item>The Respondent fulfilled its obligations under the retainer.</item>
+    <item>The Appellant was advised to seek independent financial advice and chose not to do so.</item>
+    <item>Any loss was caused by the Appellant's own decision to proceed without proper financial advice.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Solicitors Act 1974</item>
+    <item>Limitation Act 1980, s.14A</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the claim</item>
+    <item>Alternatively, contributory negligence reduction of 75%</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>SAAMCo v York Montague Ltd [1997] AC 191</Authority>
+    <Authority>Hughes-Holland v BPE Solicitors [2017] UKSC 21</Authority>
+    <Authority>Gabriel v Little [2017] UKSC 21</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="1 April 2021">Matter giving rise to proceedings first arose</Event>
+    <Event date="20 May 2021">Claimant first became aware of the alleged breach</Event>
+    <Event date="22 June 2021">Pre-action correspondence commenced</Event>
+    <Event date="27 June 2021">Claim issued in County Court/High Court</Event>
+    <Event date="12 February 2022">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="17 March 2022">Judgment handed down at first instance</Event>
+    <Event date="28 April 2022">Permission to appeal granted</Event>
+    <Event date="7 October 2022">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Dr Marcus Webb's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <OpposingArguments>
+    <item>The Appellant contends that there was breach of duty. The Respondent denies this and maintains that all obligations were fulfilled.</item>
+    <item>The Appellant argues causation is established. The Respondent contends that any loss was caused by intervening factors.</item>
+  </OpposingArguments>
+  <SecurityConsiderations>
+    <item>The standard of care applicable is that of a reasonably competent practitioner in the relevant field.</item>
+    <item>The burden of proof rests with the Appellant to establish breach and causation on the balance of probabilities.</item>
+  </SecurityConsiderations>
+  <ProportionalityAnalysis>
+    <item>The remedies sought are proportionate to the harm alleged.</item>
+    <item>Alternative remedies have been considered and rejected as inadequate.</item>
+  </ProportionalityAnalysis>
+  <Provenance>
+    <SourceFile>synthetic-case-professional-negligence---solicitors.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

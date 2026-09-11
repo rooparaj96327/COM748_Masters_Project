@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Thompson v Clearview Credit Services Ltd</CaseTitle>
+    <CaseNumber>CA-2022-004921</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2024-11-30</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Clearview Credit Services Ltd</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Victoria Moore KC; Robert Moore (instructed by Hogan Lovells LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies liability and contends that it processed data lawfully, that any inaccuracies were promptly corrected upon notification, and that the Appellant has not established cognizable damage.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent received the CCJ information from an authorised source and had no reason to doubt its accuracy.</item>
+    <item>Upon receiving the Appellant's dispute, the Respondent commenced an investigation in accordance with its procedures.</item>
+    <item>The correction was made within a reasonable timeframe given the complexity of verifying the error.</item>
+    <item>The Respondent has appropriate data quality procedures in place.</item>
+    <item>The mortgage refusal may have been attributable to other factors.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent processed data lawfully and had appropriate accuracy procedures.</item>
+    <item>The Respondent responded appropriately once notified of the alleged inaccuracy.</item>
+    <item>The Appellant has not established that the data error caused the mortgage refusal.</item>
+    <item>Any distress suffered does not meet the threshold for compensation.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Data Protection Act 2018</item>
+    <item>UK General Data Protection Regulation</item>
+    <item>Consumer Credit Act 1974</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the claim</item>
+    <item>Alternatively, compensation limited to £1,000</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Warren v DSG Retail Ltd [2021] EWHC 2168 (QB)</Authority>
+    <Authority>Rolfe v Veale Wasbrough Vizards LLP [2021] EWHC 2809 (QB)</Authority>
+    <Authority>Johnson v Eastlight Community Homes Ltd [2021] EWHC 3069 (QB)</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="30 March 2023">Matter giving rise to proceedings first arose</Event>
+    <Event date="14 May 2023">Claimant first became aware of the alleged breach</Event>
+    <Event date="16 May 2023">Pre-action correspondence commenced</Event>
+    <Event date="26 May 2023">Claim issued in County Court/High Court</Event>
+    <Event date="3 March 2024">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="25 April 2024">Judgment handed down at first instance</Event>
+    <Event date="18 May 2024">Permission to appeal granted</Event>
+    <Event date="30 November 2024">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Ms Rachel Thompson's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-data-protection.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

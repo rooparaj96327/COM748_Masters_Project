@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Thornton v GlobalTech Solutions Ltd</CaseTitle>
+    <CaseNumber>CA-2025-001247</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-01-08</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Dr Sarah Thornton</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Rebecca Hamilton KC; Marcus Chen (instructed by Whitfield &amp; Partners LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant seeks to establish that her dismissal by the Respondent constituted automatic unfair dismissal under section 103A of the Employment Rights Act 1996, as she made protected disclosures regarding safety concerns at the Respondent's Manchester research facility, and that the Employment Tribunal erred in finding that her disclosures did not qualify for whistleblower protection.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>Dr Thornton was employed as Principal Research Scientist at GlobalTech Solutions Ltd from March 2019 until her dismissal on 15 September 2024.</item>
+    <item>Between January and May 2024, Dr Thornton raised concerns internally regarding inadequate safety protocols in the handling of experimental chemical compounds at the Manchester facility.</item>
+    <item>On 12 June 2024, Dr Thornton reported her concerns to the Health and Safety Executive after internal escalation proved unsuccessful.</item>
+    <item>On 28 August 2024, Dr Thornton was informed that her role was being made redundant as part of a purported restructuring exercise affecting the research division.</item>
+    <item>Dr Thornton was the only employee in her department selected for redundancy; two colleagues with less experience and shorter tenure were retained.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Employment Tribunal erred in law by applying an unduly restrictive interpretation of "qualifying disclosure" under section 43B(1)(d) of the Employment Rights Act 1996, requiring Dr Thornton to demonstrate that a breach of a legal obligation had actually occurred rather than that she reasonably believed such a breach was likely.</item>
+    <item>The Tribunal failed to properly consider the temporal proximity between the protected disclosures and the initiation of the redundancy process, which commenced within six weeks of Dr Thornton's report to the HSE.</item>
+    <item>The Tribunal erred in accepting the Respondent's purported business justification for the redundancy without adequate scrutiny of the selection criteria, which were applied in a manner that disproportionately affected the Appellant.</item>
+    <item>The Tribunal's finding that the Appellant's disclosures were not made "in the public interest" was perverse given the nature of the safety concerns raised, which related to potential harm to multiple employees and the surrounding community.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Employment Rights Act 1996, Part IVA (Protected Disclosures), sections 43A-43L.</item>
+    <item>Employment Rights Act 1996, section 103A (Protected disclosure as automatic unfair dismissal).</item>
+    <item>Enterprise and Regulatory Reform Act 2013, section 17 (amendments to public interest test).</item>
+    <item>Health and Safety at Work etc. Act 1974, sections 2-3.</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Allow the appeal and set aside the decision of the Employment Appeal Tribunal.</item>
+    <item>Declare that the Appellant's disclosures constituted protected disclosures within the meaning of Part IVA ERA 1996.</item>
+    <item>Declare that the Appellant's dismissal was automatically unfair under section 103A ERA 1996.</item>
+    <item>Remit the matter to a fresh Employment Tribunal for determination of remedy.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Chesterton Global Ltd v Nurmohamed [2017] EWCA Civ 979</Authority>
+    <Authority>Kilraine v London Borough of Wandsworth [2018] EWCA Civ 1436</Authority>
+    <Authority>Ibrahim v HCA International Ltd [2019] EWCA Civ 2007</Authority>
+    <Authority>Jesudason v Alder Hey Children's NHS Foundation Trust [2020] EWCA Civ 73</Authority>
+    <Authority>Kong v Gulf International Bank (UK) Ltd [2022] EWCA Civ 941</Authority>
+    <Authority>Williams v Michelle Brown AM [2019] UKEAT/0044/19</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="15 March 2019">Dr Thornton commenced employment with GlobalTech Solutions Ltd as Principal Research Scientist.</Event>
+    <Event date="8 January 2024">Dr Thornton first raised safety concerns regarding chemical handling protocols to her line manager, Dr James Patterson.</Event>
+    <Event date="22 February 2024">Dr Thornton escalated concerns in writing to the Head of Research, Professor Helen Zhang.</Event>
+    <Event date="15 March 2024">Dr Thornton presented documented evidence of protocol breaches to the company's Health and Safety Committee.</Event>
+    <Event date="3 May 2024">Dr Thornton received written response from GlobalTech stating that her concerns had been "noted and addressed."</Event>
+    <Event date="12 June 2024">Dr Thornton reported concerns to the Health and Safety Executive (HSE) after observing continued protocol breaches.</Event>
+    <Event date="25 July 2024">GlobalTech announced a "strategic restructuring" of the research division.</Event>
+    <Event date="28 August 2024">Dr Thornton informed that her position was being made redundant with effect from 15 September 2024.</Event>
+    <Event date="15 September 2024">Dr Thornton's employment terminated.</Event>
+    <Event date="14 October 2024">Dr Thornton filed claim at Employment Tribunal.</Event>
+    <Event date="18 November 2024">Employment Tribunal dismissed claim.</Event>
+    <Event date="12 December 2024">Employment Appeal Tribunal dismissed appeal.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Claimant raised multiple concerns regarding what she perceived to be serious breaches of safety protocols in the handling of Class 3 chemical compounds at the Manchester research facility.</Quote>
+    <Quote>The Tribunal finds that whilst the Claimant genuinely held concerns, she has not demonstrated that the matters disclosed constituted information tending to show a breach of a legal obligation as required by section 43B(1)(b) ERA 1996.</Quote>
+    <Quote>Having considered the evidence regarding the redundancy process, the Tribunal is satisfied that the Respondent acted reasonably in selecting the Claimant's role for redundancy as part of a genuine restructuring exercise.</Quote>
+    <Quote>The Tribunal does not accept that the timing of the restructuring announcement, whilst proximate to the HSE report, establishes a causal connection between the disclosures and the dismissal.</Quote>
+    <Quote>Dr Thornton was employed in a senior scientific role requiring specific expertise in polymer chemistry and materials science, with responsibility for overseeing safety compliance within her research team.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-employment-case-thornton-2025-01-12.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and demonstration purposes only - not a real legal case</Purpose>
+  </Provenance>
+</CasePleading>

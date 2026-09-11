@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Sterling Investments Ltd v Blackwood Capital Partners LLP</CaseTitle>
+    <CaseNumber>CA-2022-000651</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-12-15</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Blackwood Capital Partners LLP</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Sarah Moore KC; Elizabeth Edwards (instructed by Freshfields Bruckhaus Deringer LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies breach of duty and contends that the investment decisions complained of fell within the scope of its contractual discretion and were reasonable in the market conditions prevailing at the material time.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Investment Management Agreement granted the Respondent broad discretionary powers over investment decisions.</item>
+    <item>The technology investments were made following detailed analysis and were consistent with the Appellant's stated risk appetite.</item>
+    <item>Market conditions in 2019-2020 were unprecedented and the losses were attributable to unforeseeable market events.</item>
+    <item>The Respondent provided quarterly reports in accordance with contractual requirements.</item>
+    <item>The portfolio's performance was consistent with comparable funds in the same period.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The investment decisions fell within the scope of the discretion granted by the Agreement.</item>
+    <item>The Respondent exercised reasonable skill and care in the prevailing market conditions.</item>
+    <item>The losses were caused by unprecedented market volatility, not any breach of duty.</item>
+    <item>The Appellant accepted the risk of loss when entering into a discretionary investment arrangement.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Financial Services and Markets Act 2000, s.138D</item>
+    <item>Senior Courts Act 1981, s.35A</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the claim</item>
+    <item>Costs on the indemnity basis</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Bolam v Friern Hospital Management Committee [1957] 1 WLR 582</Authority>
+    <Authority>Spread Trustee Co Ltd v Hutcheson [2011] UKPC 13</Authority>
+    <Authority>JP Morgan Chase Bank v Springwell Navigation Corp [2010] EWCA Civ 1221</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="28 July 2024">Matter giving rise to proceedings first arose</Event>
+    <Event date="7 October 2024">Claimant first became aware of the alleged breach</Event>
+    <Event date="14 October 2024">Pre-action correspondence commenced</Event>
+    <Event date="24 October 2024">Claim issued in County Court/High Court</Event>
+    <Event date="14 April 2025">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="7 May 2025">Judgment handed down at first instance</Event>
+    <Event date="29 May 2025">Permission to appeal granted</Event>
+    <Event date="15 December 2025">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Sterling Investments Ltd's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-commercial-contract.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

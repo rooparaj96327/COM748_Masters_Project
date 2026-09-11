@@ -1,0 +1,174 @@
+{
+  "method": {
+    "comparison": "synthetic minus real",
+    "bootstrap_iterations": 20000,
+    "permutation_iterations": 50000,
+    "random_seed": 748,
+    "strict_defect_definition": "incomplete citation or incorrect citation",
+    "review_label_source": "F:\\1_Ulster_Uni\\MSc_AI\\7_COM748_Masters_Project\\COM748_Hercules_Audit\\data\\processed\\unique_citation_review.xlsx"
+  },
+  "sample": {
+    "citation_records": 115,
+    "judgments": 59,
+    "input_records": 34
+  },
+  "comparisons": [
+    {
+      "analysis_level": "judgment",
+      "metric": "citation_mentions",
+      "real": {
+        "n": 34,
+        "mean": 1.8529411764705883,
+        "median": 2.0,
+        "standard_deviation": 0.6574677289546277,
+        "minimum": 1.0,
+        "maximum": 4.0
+      },
+      "synthetic": {
+        "n": 25,
+        "mean": 2.08,
+        "median": 2.0,
+        "standard_deviation": 0.7023769168568492,
+        "minimum": 1.0,
+        "maximum": 4.0
+      },
+      "mean_difference_synthetic_minus_real": 0.22705882352941176,
+      "bootstrap_95_ci_low": -0.11176470588235299,
+      "bootstrap_95_ci_high": 0.5741176470588234,
+      "permutation_p_value_two_sided": 0.24877502449951,
+      "hedges_g": 0.3310842870619476
+    },
+    {
+      "analysis_level": "judgment",
+      "metric": "strict_defect_rate",
+      "real": {
+        "n": 34,
+        "mean": 0.05392156862745098,
+        "median": 0.0,
+        "standard_deviation": 0.15198234566143215,
+        "minimum": 0.0,
+        "maximum": 0.5
+      },
+      "synthetic": {
+        "n": 25,
+        "mean": 0.13,
+        "median": 0.0,
+        "standard_deviation": 0.31556827047935815,
+        "minimum": 0.0,
+        "maximum": 1.0
+      },
+      "mean_difference_synthetic_minus_real": 0.07607843137254902,
+      "bootstrap_95_ci_low": -0.04411764705882353,
+      "bootstrap_95_ci_high": 0.22019607843137257,
+      "permutation_p_value_two_sided": 0.2719345613087738,
+      "hedges_g": 0.31923498090267444
+    },
+    {
+      "analysis_level": "judgment",
+      "metric": "incorrect_rate",
+      "real": {
+        "n": 34,
+        "mean": 0.029411764705882353,
+        "median": 0.0,
+        "standard_deviation": 0.11941628680530642,
+        "minimum": 0.0,
+        "maximum": 0.5
+      },
+      "synthetic": {
+        "n": 25,
+        "mean": 0.04,
+        "median": 0.0,
+        "standard_deviation": 0.2,
+        "minimum": 0.0,
+        "maximum": 1.0
+      },
+      "mean_difference_synthetic_minus_real": 0.010588235294117648,
+      "bootstrap_95_ci_low": -0.058823529411764705,
+      "bootstrap_95_ci_high": 0.10529411764705882,
+      "permutation_p_value_two_sided": 1.0,
+      "hedges_g": 0.06595167775245514
+    },
+    {
+      "analysis_level": "input_record",
+      "metric": "mean_citations_per_judgment",
+      "real": {
+        "n": 17,
+        "mean": 1.85,
+        "median": 2.0,
+        "standard_deviation": 0.45437686267385285,
+        "minimum": 1.0,
+        "maximum": 3.0
+      },
+      "synthetic": {
+        "n": 17,
+        "mean": 2.088235294117647,
+        "median": 2.0,
+        "standard_deviation": 0.6900021312840059,
+        "minimum": 1.0,
+        "maximum": 4.0
+      },
+      "mean_difference_synthetic_minus_real": 0.2382352941176471,
+      "bootstrap_95_ci_low": -0.1284313725490196,
+      "bootstrap_95_ci_high": 0.6254901960784311,
+      "permutation_p_value_two_sided": 0.25621487570248597,
+      "hedges_g": 0.39816973080935547
+    },
+    {
+      "analysis_level": "input_record",
+      "metric": "strict_defect_rate",
+      "real": {
+        "n": 17,
+        "mean": 0.040221543162719635,
+        "median": 0.0,
+        "standard_deviation": 0.08049475642494697,
+        "minimum": 0.0,
+        "maximum": 0.25
+      },
+      "synthetic": {
+        "n": 17,
+        "mean": 0.19117647058823528,
+        "median": 0.0,
+        "standard_deviation": 0.3700655744753418,
+        "minimum": 0.0,
+        "maximum": 1.0
+      },
+      "mean_difference_synthetic_minus_real": 0.15095492742551564,
+      "bootstrap_95_ci_low": -0.007868601986249044,
+      "bootstrap_95_ci_high": 0.3367838044308633,
+      "permutation_p_value_two_sided": 0.11881762364752704,
+      "hedges_g": 0.5503809360906006
+    },
+    {
+      "analysis_level": "input_record",
+      "metric": "incorrect_rate",
+      "real": {
+        "n": 17,
+        "mean": 0.013750954927425516,
+        "median": 0.0,
+        "standard_deviation": 0.039888999996200374,
+        "minimum": 0.0,
+        "maximum": 0.14285714285714285
+      },
+      "synthetic": {
+        "n": 17,
+        "mean": 0.058823529411764705,
+        "median": 0.0,
+        "standard_deviation": 0.24253562503633297,
+        "minimum": 0.0,
+        "maximum": 1.0
+      },
+      "mean_difference_synthetic_minus_real": 0.04507257448433919,
+      "bootstrap_95_ci_low": -0.029793735676088617,
+      "bootstrap_95_ci_high": 0.17112299465240643,
+      "permutation_p_value_two_sided": 1.0,
+      "hedges_g": 0.25320609356587337
+    }
+  ],
+  "limitations": [
+    "The tests are exploratory and do not establish causation.",
+    "Repeated generations from the same input are not fully independent.",
+    "Different document IDs may represent re-uploads of the same underlying case.",
+    "Citation correctness labels were assigned at authority-group level and inherited by each occurrence.",
+    "The convenience sample is not necessarily representative of all Hercules cases."
+  ]
+}

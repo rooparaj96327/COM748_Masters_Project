@@ -1,0 +1,10 @@
+metric,count,denominator,percentage
+Correct authority-group citations,23,35,65.7
+Incomplete authority-group citations,8,35,22.9
+Incorrect authority-group citations,4,35,11.4
+Real-input citation mentions,63,115,54.8
+Synthetic-input citation mentions,52,115,45.2
+Retrieved and cited records,7,115,6.1
+Corpus records not retrieved,34,115,29.6
+Records not found in corpus registry,59,115,51.3
+Retrieved ID/citation mismatches,9,115,7.8

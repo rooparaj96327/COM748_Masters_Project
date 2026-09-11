@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Crossfield Trading Ltd v Northern Commercial Bank Plc</CaseTitle>
+    <CaseNumber>CA-2015-008373</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-04-05</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Crossfield Trading Ltd</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Michael Moore KC; Victoria Clarke (instructed by Allen &amp; Overy LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant claims damages for breach of contract and negligent mis-statement arising from the Respondent's sale of interest rate hedging products that were unsuitable for the Appellant's needs and sophistication level.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant is a small trading company with turnover of approximately £3 million annually.</item>
+    <item>In 2015, the Respondent sold the Appellant a structured collar interest rate swap with a 10-year term.</item>
+    <item>The Appellant was classified as a retail client but was not given appropriate protections.</item>
+    <item>The product resulted in break costs of £890,000 when the Appellant sought to refinance in 2019.</item>
+    <item>The Appellant was not informed of the potential magnitude of break costs.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent breached COBS rules by failing to ensure the product was suitable.</item>
+    <item>The Respondent misrepresented the nature and risks of the product.</item>
+    <item>The Appellant was wrongly classified as a professional client.</item>
+    <item>The break costs were a concealed and unfair term.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Financial Services and Markets Act 2000</item>
+    <item>Financial Services and Markets Act 2000 (Regulated Activities) Order 2001</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Damages in the sum of £890,000</item>
+    <item>Rescission of the swap agreement</item>
+    <item>Interest and costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Crestsign Ltd v National Westminster Bank Plc [2014] EWHC 3043 (Ch)</Authority>
+    <Authority>Green v Royal Bank of Scotland Plc [2013] EWCA Civ 1197</Authority>
+    <Authority>Thornbridge Ltd v Barclays Bank Plc [2015] EWHC 3430 (QB)</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="10 March 2020">Matter giving rise to proceedings first arose</Event>
+    <Event date="21 April 2020">Claimant first became aware of the alleged breach</Event>
+    <Event date="7 May 2020">Pre-action correspondence commenced</Event>
+    <Event date="16 May 2020">Claim issued in County Court/High Court</Event>
+    <Event date="22 September 2021">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="29 October 2021">Judgment handed down at first instance</Event>
+    <Event date="2 December 2021">Permission to appeal granted</Event>
+    <Event date="5 April 2022">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Northern Commercial Bank Plc failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-banking-and-finance.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

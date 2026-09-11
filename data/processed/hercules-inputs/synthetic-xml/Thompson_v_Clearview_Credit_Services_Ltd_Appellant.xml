@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Thompson v Clearview Credit Services Ltd</CaseTitle>
+    <CaseNumber>CA-2022-004921</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2024-11-07</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Ms Rachel Thompson</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Elizabeth Roberts KC; William Taylor (instructed by Allen &amp; Overy LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant seeks compensation under the UK GDPR for distress and damage caused by the Respondent's unlawful processing of her personal data, including inaccurate credit information that caused her to be refused a mortgage.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent is a credit reference agency that held data about the Appellant.</item>
+    <item>In March 2023, the Appellant discovered that the Respondent had incorrectly recorded a County Court Judgment against her from 2019.</item>
+    <item>The CCJ related to a different individual with a similar name and had been wrongly attributed to the Appellant.</item>
+    <item>As a result of this error, the Appellant was refused a mortgage in April 2023.</item>
+    <item>Despite multiple requests, the Respondent took 6 months to correct the error.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent processed inaccurate personal data in breach of Article 5(1)(d) UK GDPR.</item>
+    <item>The Respondent failed to respond to the subject access request within the statutory timeframe.</item>
+    <item>The Appellant suffered distress and financial loss as a direct result of the data breach.</item>
+    <item>The Respondent failed to implement appropriate technical and organisational measures.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Data Protection Act 2018</item>
+    <item>UK General Data Protection Regulation</item>
+    <item>Consumer Credit Act 1974</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Compensation for non-material damage: £15,000</item>
+    <item>Compensation for financial loss: £8,500</item>
+    <item>Declaratory relief</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Lloyd v Google LLC [2021] UKSC 50</Authority>
+    <Authority>Vidal-Hall v Google Inc [2015] EWCA Civ 311</Authority>
+    <Authority>Gulati v MGN Ltd [2015] EWHC 1482 (Ch)</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="3 April 2023">Matter giving rise to proceedings first arose</Event>
+    <Event date="10 May 2023">Claimant first became aware of the alleged breach</Event>
+    <Event date="14 June 2023">Pre-action correspondence commenced</Event>
+    <Event date="30 June 2023">Claim issued in County Court/High Court</Event>
+    <Event date="26 February 2024">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="20 April 2024">Judgment handed down at first instance</Event>
+    <Event date="22 May 2024">Permission to appeal granted</Event>
+    <Event date="7 November 2024">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Clearview Credit Services Ltd failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-data-protection.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Aldridge v Crawford</CaseTitle>
+    <CaseNumber>CA-2022-008247</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-05-18</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Mr and Mrs Simon Aldridge</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Robert Wilson KC; Michael Thompson (instructed by Clifford Chance LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellants seek declaratory and injunctive relief regarding the boundary between their property and the Respondent's, contending that the Respondent has encroached upon their land by approximately 2.4 metres along a 45-metre boundary.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellants purchased their property, Meadow View, in 2008.</item>
+    <item>In 2022, the Appellants commissioned a survey which revealed that the Respondent's fence encroaches 2.4 metres onto their title.</item>
+    <item>Historical aerial photographs from 1985 show the original boundary line corresponding to the Appellants' title plan.</item>
+    <item>The Respondent erected the current fence in 2005 without the Appellants' predecessors' consent.</item>
+    <item>The encroachment includes part of the Appellants' garden and a mature oak tree.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The true boundary is as shown on the Appellants' title plan.</item>
+    <item>The fence does not represent the legal boundary.</item>
+    <item>Any adverse possession claim fails as the period did not expire before the 2003 Act came into force.</item>
+    <item>The Respondent has not applied to Land Registry as required by Schedule 6 LRA 2002.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Land Registration Act 2002</item>
+    <item>Limitation Act 1980, s.15</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Declaration as to the true boundary</item>
+    <item>Injunction requiring removal of encroaching structures</item>
+    <item>Damages for trespass</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Neilson v Poole [1969] 20 P&amp;CR 909</Authority>
+    <Authority>Lee v Barrey [1957] Ch 251</Authority>
+    <Authority>Fisher v Winch [1939] 1 KB 666</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="12 August 2020">Matter giving rise to proceedings first arose</Event>
+    <Event date="20 October 2020">Claimant first became aware of the alleged breach</Event>
+    <Event date="4 November 2020">Pre-action correspondence commenced</Event>
+    <Event date="13 November 2020">Claim issued in County Court/High Court</Event>
+    <Event date="22 August 2021">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="29 September 2021">Judgment handed down at first instance</Event>
+    <Event date="10 November 2021">Permission to appeal granted</Event>
+    <Event date="18 May 2022">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Mr Timothy Crawford failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-property---boundary-dispute.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

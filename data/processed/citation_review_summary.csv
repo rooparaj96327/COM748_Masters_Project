@@ -1,0 +1,16 @@
+metric,value
+reviewed_authority_groups,35
+citation_mentions,115
+real_case_mentions,63
+synthetic_case_mentions,52
+case_law_authority_groups,33
+non_case_reference_groups,2
+externally_confirmed_cases,32
+ambiguous_case_references,1
+non_case_references,2
+correct_citations,23
+incomplete_citations,8
+incorrect_citations,4
+high_priority_reviews,8
+medium_priority_reviews,20
+low_priority_reviews,7

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Collins v North Thames NHS Foundation Trust</CaseTitle>
+    <CaseNumber>CA-2019-004792</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2021-12-21</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Mrs Jennifer Collins</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Robert Edwards KC; Elizabeth Thompson (instructed by Allen &amp; Overy LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant contends that the Respondent Trust was negligent in failing to diagnose a spinal cord tumour during multiple consultations between 2019 and 2021, resulting in permanent neurological damage that would have been avoided with earlier treatment.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant attended the Respondent's hospital on five occasions between March 2019 and February 2021 with progressive lower back pain and leg weakness.</item>
+    <item>Despite presenting with red flag symptoms including progressive weakness and bladder dysfunction, no MRI scan was performed until February 2021.</item>
+    <item>The MRI revealed a Grade II astrocytoma compressing the spinal cord at T10-T11.</item>
+    <item>By the time of diagnosis, the Appellant had developed permanent paraparesis affecting mobility.</item>
+    <item>Expert evidence confirms that earlier diagnosis would have enabled less invasive treatment with better outcomes.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent breached its duty of care by failing to investigate progressive neurological symptoms appropriately.</item>
+    <item>A reasonably competent clinician would have arranged an MRI scan significantly earlier.</item>
+    <item>The delay in diagnosis caused or materially contributed to the Appellant's permanent disability.</item>
+    <item>The Appellant has lost the chance of a better outcome, which should be compensated.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>NHS Act 2006</item>
+    <item>Limitation Act 1980, s.11</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Damages for pain, suffering and loss of amenity</item>
+    <item>Past and future care costs</item>
+    <item>Loss of earnings</item>
+    <item>Interest and costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Bolam v Friern Hospital Management Committee [1957] 1 WLR 582</Authority>
+    <Authority>Bolitho v City and Hackney Health Authority [1998] AC 232</Authority>
+    <Authority>Montgomery v Lanarkshire Health Board [2015] UKSC 11</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="11 December 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="5 February 2020">Claimant first became aware of the alleged breach</Event>
+    <Event date="12 February 2020">Pre-action correspondence commenced</Event>
+    <Event date="6 March 2020">Claim issued in County Court/High Court</Event>
+    <Event date="10 March 2021">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="25 March 2021">Judgment handed down at first instance</Event>
+    <Event date="15 April 2021">Permission to appeal granted</Event>
+    <Event date="21 December 2021">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The North Thames NHS Foundation Trust failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-medical-negligence.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

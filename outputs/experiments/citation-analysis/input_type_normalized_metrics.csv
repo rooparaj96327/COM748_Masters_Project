@@ -1,0 +1,3 @@
+input_type,judgments,citation_mentions,mean_citations_per_judgment,standard_deviation,confidence_interval_95
+real,34,63,1.8529,0.6575,0.2210
+synthetic,25,52,2.0800,0.7024,0.2753

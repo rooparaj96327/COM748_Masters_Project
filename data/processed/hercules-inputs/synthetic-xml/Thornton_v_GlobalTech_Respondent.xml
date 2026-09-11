@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Thornton v GlobalTech Solutions Ltd</CaseTitle>
+    <CaseNumber>CA-2025-001247</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-01-10</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>GlobalTech Solutions Ltd</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Jonathan Blackwood KC; Anna Okafor (instructed by Henderson Cole LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent contends that the Employment Tribunal and Employment Appeal Tribunal correctly determined that Dr Thornton's dismissal was the result of a genuine redundancy arising from legitimate business restructuring, and that her communications did not constitute protected disclosures as they failed to meet the statutory requirements under Part IVA of the Employment Rights Act 1996.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>Dr Thornton was employed as Principal Research Scientist at GlobalTech Solutions Ltd from March 2019 until her dismissal on 15 September 2024.</item>
+    <item>Between January and May 2024, Dr Thornton raised concerns internally regarding safety protocols at the Manchester facility, which the Respondent investigated and addressed through enhanced training measures.</item>
+    <item>The Respondent's research division underwent a strategic restructuring in Q3 2024 due to reduced client demand in the polymer chemistry sector, resulting in the consolidation of three research teams into two.</item>
+    <item>The redundancy selection process was conducted using objective criteria including skills matrix scoring, project involvement, and business continuity requirements.</item>
+    <item>Dr Thornton scored lowest on the skills matrix due to her specialisation in legacy polymer technologies with declining commercial application.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Employment Tribunal correctly applied the legal test under section 43B ERA 1996; Dr Thornton's communications expressed personal opinions and preferences regarding safety procedures rather than conveying information tending to show a breach of legal obligation or danger to health and safety.</item>
+    <item>The Tribunal was entitled to find on the evidence that the Respondent's safety protocols complied with all applicable Health and Safety regulations, and that the HSE subsequently confirmed no enforcement action was required following their investigation.</item>
+    <item>The temporal proximity between the HSE report and the redundancy announcement is coincidental; the restructuring had been under consideration since Q1 2024 as evidenced by contemporaneous board minutes and strategic planning documents.</item>
+    <item>The Tribunal's finding that the redundancy process was genuine and that selection criteria were applied fairly should not be disturbed on appeal, as it was a finding of fact supported by substantial evidence.</item>
+    <item>Even if the disclosures were protected (which is denied), the Tribunal was entitled to find on the evidence that they were not the principal reason for dismissal, and that the genuine reason was redundancy.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Employment Rights Act 1996, Part IVA (Protected Disclosures), sections 43A-43L.</item>
+    <item>Employment Rights Act 1996, section 98(4) (fairness of dismissal).</item>
+    <item>Employment Rights Act 1996, sections 139-141 (redundancy).</item>
+    <item>Health and Safety at Work etc. Act 1974, sections 2-3.</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the appeal in its entirety.</item>
+    <item>Uphold the decisions of the Employment Tribunal and Employment Appeal Tribunal.</item>
+    <item>Award costs against the Appellant on the indemnity basis if appropriate.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Chesterton Global Ltd v Nurmohamed [2017] EWCA Civ 979</Authority>
+    <Authority>Kilraine v London Borough of Wandsworth [2018] EWCA Civ 1436</Authority>
+    <Authority>Cavendish Munro Professional Risks Management Ltd v Geduld [2010] ICR 325</Authority>
+    <Authority>Fecitt v NHS Manchester [2012] IRLR 64</Authority>
+    <Authority>Royal Mail Group Ltd v Jhuti [2019] UKSC 55</Authority>
+    <Authority>Safeway Stores plc v Burrell [1997] ICR 523</Authority>
+    <Authority>Polkey v AE Dayton Services Ltd [1988] ICR 142</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="15 March 2019">Dr Thornton commenced employment with GlobalTech Solutions Ltd as Principal Research Scientist.</Event>
+    <Event date="8 January 2024">Dr Thornton first raised safety concerns regarding chemical handling protocols to her line manager.</Event>
+    <Event date="15 February 2024">Internal review of safety protocols initiated by GlobalTech in response to concerns raised.</Event>
+    <Event date="28 February 2024">Board approved strategic review of research division in light of market conditions (per board minutes).</Event>
+    <Event date="15 March 2024">Dr Thornton presented concerns to Health and Safety Committee; Committee resolved to implement enhanced training programme.</Event>
+    <Event date="3 May 2024">GlobalTech confirmed completion of safety protocol review and implementation of training measures.</Event>
+    <Event date="12 June 2024">Dr Thornton reported concerns to HSE.</Event>
+    <Event date="18 July 2024">HSE completed investigation and confirmed no enforcement action required.</Event>
+    <Event date="25 July 2024">GlobalTech announced restructuring following completion of strategic review commenced in February 2024.</Event>
+    <Event date="5 August 2024">Redundancy consultation process commenced with affected employees including Dr Thornton.</Event>
+    <Event date="28 August 2024">Dr Thornton informed of redundancy selection following application of objective scoring criteria.</Event>
+    <Event date="15 September 2024">Dr Thornton's employment terminated with statutory redundancy payment.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Tribunal is satisfied that GlobalTech Solutions Ltd conducted a genuine and fair redundancy process, applying objective selection criteria that were consistently applied across the affected pool of employees.</Quote>
+    <Quote>The evidence demonstrates that the restructuring of the research division was driven by legitimate business considerations, specifically the decline in client demand for legacy polymer chemistry services.</Quote>
+    <Quote>The HSE investigation concluded in July 2024 with a finding that GlobalTech's safety protocols were compliant with applicable regulations and that no enforcement action was warranted.</Quote>
+    <Quote>Whilst the Claimant expressed genuine concerns, the Tribunal finds that her communications constituted expressions of opinion regarding preferred working practices rather than disclosures of information tending to show breaches of legal obligations.</Quote>
+    <Quote>The contemporaneous documentation, including board minutes from February 2024, demonstrates that the strategic review leading to the restructuring pre-dated the Claimant's external disclosure to the HSE.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-employment-case-thornton-2025-01-12.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and demonstration purposes only - not a real legal case</Purpose>
+  </Provenance>
+</CasePleading>

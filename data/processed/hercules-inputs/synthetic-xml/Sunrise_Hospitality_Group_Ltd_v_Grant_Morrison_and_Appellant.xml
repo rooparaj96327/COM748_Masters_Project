@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Sunrise Hospitality Group Ltd v Grant Morrison &amp; Co LLP</CaseTitle>
+    <CaseNumber>CA-2021-006069</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2021-02-02</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Sunrise Hospitality Group Ltd</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Catherine Wilson KC; Elizabeth Clarke (instructed by Freshfields Bruckhaus Deringer LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant claims damages for professional negligence arising from the Respondent's failure to identify material errors in the accounts of a target company, upon which the Appellant relied in making an acquisition that proved to be significantly overvalued.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant engaged the Respondent to conduct financial due diligence on Prestige Hotels Ltd.</item>
+    <item>The Respondent provided a due diligence report in February 2021 confirming EBITDA of £4.2 million.</item>
+    <item>The Appellant purchased Prestige Hotels for £28 million in reliance on the due diligence report.</item>
+    <item>Post-acquisition investigation revealed that EBITDA had been materially overstated by £1.8 million.</item>
+    <item>The overstatement resulted from fictitious revenue entries and understated liabilities that should have been detected.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent owed a duty of care in preparing the due diligence report.</item>
+    <item>A reasonably competent accountant would have detected the irregularities.</item>
+    <item>The Appellant relied on the report and suffered loss as a result of its inaccuracy.</item>
+    <item>The loss is within the scope of the Respondent's duty.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Limitation Act 1980</item>
+    <item>Civil Liability (Contribution) Act 1978</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Damages representing the difference between price paid and true value</item>
+    <item>Consequential losses</item>
+    <item>Interest and costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Caparo Industries Plc v Dickman [1990] 2 AC 605</Authority>
+    <Authority>ADT Ltd v BDO Binder Hamlyn [1996] BCC 808</Authority>
+    <Authority>Moore Stephens (a firm) v Stone Rolls Ltd [2009] UKHL 39</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="26 August 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="11 October 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="17 October 2019">Pre-action correspondence commenced</Event>
+    <Event date="27 November 2019">Claim issued in County Court/High Court</Event>
+    <Event date="30 April 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="12 June 2020">Judgment handed down at first instance</Event>
+    <Event date="7 July 2020">Permission to appeal granted</Event>
+    <Event date="2 February 2021">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Grant Morrison &amp; Co LLP failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-professional-negligence---accountants.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

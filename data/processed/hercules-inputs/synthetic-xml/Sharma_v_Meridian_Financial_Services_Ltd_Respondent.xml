@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Sharma v Meridian Financial Services Ltd</CaseTitle>
+    <CaseNumber>CA-2015-000120</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2020-12-19</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Meridian Financial Services Ltd</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Michael Clarke KC; Catherine Taylor (instructed by Linklaters LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies discrimination and contends that the Appellant was dismissed for genuine performance and conduct reasons unrelated to her protected characteristic or her grievance.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant's performance issues were documented from June 2023, before any grievance was raised.</item>
+    <item>The grievance was investigated thoroughly and found to be unsubstantiated.</item>
+    <item>The PIP was implemented following documented performance concerns.</item>
+    <item>The Appellant failed to meet the targets set in the PIP despite support.</item>
+    <item>The dismissal decision was taken by a manager unconnected with the grievance.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Appellant has not established a prima facie case of discrimination.</item>
+    <item>The alleged comparators are not appropriate comparators.</item>
+    <item>The dismissal was for genuine performance reasons.</item>
+    <item>There is no causal connection between the grievance and dismissal.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Equality Act 2010, ss.13, 26, 27, 39</item>
+    <item>Employment Rights Act 1996, s.98</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss all claims</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Hewage v Grampian Health Board [2012] UKSC 37</Authority>
+    <Authority>Madarassy v Nomura International Plc [2007] EWCA Civ 33</Authority>
+    <Authority>Martin v Devonshires Solicitors [2011] ICR 352</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="5 November 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="25 December 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="8 January 2020">Pre-action correspondence commenced</Event>
+    <Event date="1 February 2020">Claim issued in County Court/High Court</Event>
+    <Event date="4 June 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="29 June 2020">Judgment handed down at first instance</Event>
+    <Event date="23 July 2020">Permission to appeal granted</Event>
+    <Event date="19 December 2020">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Ms Priya Sharma's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <OpposingArguments>
+    <item>The Appellant contends that there was breach of duty. The Respondent denies this and maintains that all obligations were fulfilled.</item>
+    <item>The Appellant argues causation is established. The Respondent contends that any loss was caused by intervening factors.</item>
+  </OpposingArguments>
+  <SecurityConsiderations>
+    <item>The standard of care applicable is that of a reasonably competent practitioner in the relevant field.</item>
+    <item>The burden of proof rests with the Appellant to establish breach and causation on the balance of probabilities.</item>
+  </SecurityConsiderations>
+  <ProportionalityAnalysis>
+    <item>The remedies sought are proportionate to the harm alleged.</item>
+    <item>Alternative remedies have been considered and rejected as inadequate.</item>
+  </ProportionalityAnalysis>
+  <Provenance>
+    <SourceFile>synthetic-case-employment---discrimination.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

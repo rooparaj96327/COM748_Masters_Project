@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Metropolitan Property Holdings Ltd v Artisan Coffee Co Ltd</CaseTitle>
+    <CaseNumber>CA-2023-004634</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2020-12-13</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Artisan Coffee Co Ltd</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Catherine Roberts KC; Michael Clarke (instructed by Clifford Chance LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent seeks relief from forfeiture and contends that the Appellant has waived the right to forfeit, that the alleged breaches have been remedied, and that it would be inequitable to grant possession.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent's business was severely affected by the Covid-19 pandemic and subsequent trading conditions.</item>
+    <item>The Appellant accepted rent payments after becoming aware of the alleged breaches, constituting waiver.</item>
+    <item>The alterations complained of are reversible and do not materially affect the premises.</item>
+    <item>The Respondent has made substantial investment in the premises including a new shop front.</item>
+    <item>The Respondent has now cleared the rent arrears in full.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Appellant has waived the right to forfeit by accepting rent with knowledge of the breaches.</item>
+    <item>The breaches have been remedied and the arrears cleared.</item>
+    <item>It would be inequitable to grant forfeiture given the Respondent's substantial investment.</item>
+    <item>Relief from forfeiture should be granted on appropriate terms.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Landlord and Tenant Act 1954, Part II</item>
+    <item>Law of Property Act 1925, s.146</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Relief from forfeiture</item>
+    <item>Alternatively, time to remedy any subsisting breaches</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Shiloh Spinners Ltd v Harding [1973] AC 691</Authority>
+    <Authority>Ropemaker Properties Ltd v Noonhaven Ltd [1989] 2 EGLR 50</Authority>
+    <Authority>Freifeld v West Kensington Court Ltd [2015] EWCA Civ 806</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="8 July 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="19 August 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="9 September 2019">Pre-action correspondence commenced</Event>
+    <Event date="21 September 2019">Claim issued in County Court/High Court</Event>
+    <Event date="18 May 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="6 July 2020">Judgment handed down at first instance</Event>
+    <Event date="11 August 2020">Permission to appeal granted</Event>
+    <Event date="13 December 2020">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Metropolitan Property Holdings Ltd's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-landlord-and-tenant---commercial.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

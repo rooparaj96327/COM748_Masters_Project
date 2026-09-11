@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Beacon Manufacturing Ltd v Alliance Insurance Plc</CaseTitle>
+    <CaseNumber>CA-2016-009836</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2020-12-19</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Beacon Manufacturing Ltd</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Robert Anderson KC; Elizabeth Roberts (instructed by Hogan Lovells LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant seeks an indemnity under a business interruption insurance policy for losses suffered as a result of a fire at its manufacturing premises, contending that the Respondent has wrongfully declined the claim.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant held a combined commercial policy with the Respondent providing cover for material damage and business interruption.</item>
+    <item>A fire occurred at the Appellant's premises on 3 August 2023 causing extensive damage.</item>
+    <item>The Appellant submitted a claim for £4.2 million comprising property damage and 18 months' business interruption losses.</item>
+    <item>The Respondent declined the claim alleging non-disclosure of previous fires and breach of fire safety warranty.</item>
+    <item>The previous incidents were minor, did not result in claims, and were not material to the risk.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The previous incidents were minor and not material to a prudent underwriter.</item>
+    <item>Any non-disclosure was not deliberate or reckless within the meaning of the Insurance Act 2015.</item>
+    <item>The warranty was suspended during the maintenance period under implied terms.</item>
+    <item>The Respondent's remedy is limited to proportionate reduction of the claim, not avoidance.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Insurance Act 2015</item>
+    <item>Consumer Insurance (Disclosure and Representations) Act 2012</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Indemnity under the policy in the sum of £4,200,000</item>
+    <item>Interest from date of loss</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Versloot Dredging BV v HDI Gerling Industrie Versicherung AG [2016] UKSC 45</Authority>
+    <Authority>The Mercandian Continent [2001] 2 Lloyd's Rep 563</Authority>
+    <Authority>Brit Syndicates Ltd v Italaudit SpA [2008] UKHL 18</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="6 April 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="18 May 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="23 May 2019">Pre-action correspondence commenced</Event>
+    <Event date="17 June 2019">Claim issued in County Court/High Court</Event>
+    <Event date="29 April 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="19 May 2020">Judgment handed down at first instance</Event>
+    <Event date="16 June 2020">Permission to appeal granted</Event>
+    <Event date="19 December 2020">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Alliance Insurance Plc failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-insurance-coverage.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

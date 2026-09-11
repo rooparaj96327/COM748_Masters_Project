@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Metropolitan Property Holdings Ltd v Artisan Coffee Co Ltd</CaseTitle>
+    <CaseNumber>CA-2023-004634</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2020-11-18</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Metropolitan Property Holdings Ltd</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>William Hughes KC; Victoria Wilson (instructed by Slaughter and May)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant landlord seeks possession of commercial premises and arrears of rent, contending that the Respondent tenant has forfeited the lease by reason of persistent breach of covenants including non-payment of rent and unauthorized alterations.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent holds a 15-year lease of retail premises at 45 High Street, Richmond, granted in 2015.</item>
+    <item>The Respondent has accumulated rent arrears of £87,500 over the period March 2022 to December 2023.</item>
+    <item>The Respondent carried out structural alterations without the Appellant's consent contrary to clause 4.12 of the lease.</item>
+    <item>The Appellant served a section 146 notice on 15 January 2024.</item>
+    <item>The Respondent has persistently paid rent late over the term of the lease.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent has committed multiple breaches of covenant entitling the Appellant to forfeit.</item>
+    <item>The breaches are irremediable given the persistent pattern of non-payment.</item>
+    <item>Any waiver was limited to the specific rent demands accepted and did not extend to the forfeiture right.</item>
+    <item>Relief from forfeiture should be refused given the history of breaches.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Landlord and Tenant Act 1954, Part II</item>
+    <item>Law of Property Act 1925, s.146</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Possession of the premises</item>
+    <item>Mesne profits</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Billson v Residential Apartments Ltd [1992] 1 AC 494</Authority>
+    <Authority>Expert Clothing Service &amp; Sales Ltd v Hillgate House Ltd [1986] Ch 340</Authority>
+    <Authority>Pineport Ltd v Grangeglen Ltd [2016] EWHC 1318 (Ch)</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="15 July 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="15 August 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="14 September 2019">Pre-action correspondence commenced</Event>
+    <Event date="17 October 2019">Claim issued in County Court/High Court</Event>
+    <Event date="14 February 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="13 March 2020">Judgment handed down at first instance</Event>
+    <Event date="10 April 2020">Permission to appeal granted</Event>
+    <Event date="18 November 2020">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Artisan Coffee Co Ltd failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-landlord-and-tenant---commercial.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

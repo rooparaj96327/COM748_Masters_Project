@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Heritage Brewing Company Ltd v Traditional Ales Holdings Plc</CaseTitle>
+    <CaseNumber>CA-2019-005474</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2021-05-25</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Heritage Brewing Company Ltd</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>James Taylor KC; Robert Mitchell (instructed by Hogan Lovells LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant seeks a declaration of invalidity of the Respondent's trade mark registration on grounds of bad faith, prior use and likelihood of confusion with the Appellant's established unregistered mark.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant has used the mark 'HERITAGE ALE' since 2008 for craft beers sold in the Cotswolds region.</item>
+    <item>The Respondent registered 'HERITAGE ALES' as a trade mark in 2020.</item>
+    <item>The Appellant has built substantial goodwill through farmers' markets, local pubs and regional festivals.</item>
+    <item>The Respondent's directors were aware of the Appellant's use when applying to register.</item>
+    <item>Since registration, the Respondent has demanded the Appellant cease use of its established mark.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The registration was made in bad faith with knowledge of the Appellant's prior use.</item>
+    <item>The marks are confusingly similar for identical goods.</item>
+    <item>The Appellant has established goodwill in the 'Heritage Ale' name.</item>
+    <item>Use of the registered mark would constitute passing off.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Trade Marks Act 1994</item>
+    <item>Intellectual Property Act 2014</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Declaration of invalidity</item>
+    <item>Cancellation of registration</item>
+    <item>Injunction</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Phones 4U Ltd v Phone4u.co.uk Internet Ltd [2006] EWCA Civ 244</Authority>
+    <Authority>Red Bull GmbH v Sun Mark Ltd [2012] EWHC 1929 (Ch)</Authority>
+    <Authority>Sky Plc v Skykick UK Ltd [2021] EWCA Civ 1121</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="9 April 2020">Matter giving rise to proceedings first arose</Event>
+    <Event date="22 May 2020">Claimant first became aware of the alleged breach</Event>
+    <Event date="7 June 2020">Pre-action correspondence commenced</Event>
+    <Event date="28 June 2020">Claim issued in County Court/High Court</Event>
+    <Event date="12 November 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="6 January 2021">Judgment handed down at first instance</Event>
+    <Event date="12 February 2021">Permission to appeal granted</Event>
+    <Event date="25 May 2021">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Traditional Ales Holdings Plc failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-intellectual-property---trade-marks.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

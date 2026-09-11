@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>R (Harrison) v Secretary of State for Justice</CaseTitle>
+    <CaseNumber>CA-2025-000412</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-02-10</FilingDate>
+    <PleadingType>Appellant's Case</PleadingType>
+  </Header>
+  <Party>
+    <n>Marcus Harrison</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Phillippa Kaufmann KC; Tom Hickman (instructed by Bhatt Murphy Solicitors)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant seeks to establish that the withdrawal of library access and restrictions on distance learning materials constitute a breach of Article 2 Protocol 1 ECHR (right to education). The Administrative Court found unlawful administrative action but held the threshold for A2P1 violation was not met.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant is serving a determinate sentence at HMP Wandsworth and is enrolled in an Open University degree program in Social Sciences.</item>
+    <item>In September 2024, following security concerns, the prison Governor implemented restrictions preventing prisoners from receiving printed course materials exceeding 50 pages per month.</item>
+    <item>The Appellant's OU course requires access to textbooks and journal articles totaling approximately 800 pages per semester.</item>
+    <item>Library access was reduced from 3 hours weekly to 1 hour fortnightly due to staffing shortages.</item>
+    <item>The Respondent acknowledged these restrictions were not in accordance with Prison Service Instructions but argued they did not meet the threshold for A2P1 interference.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Administrative Court applied an incorrect legal threshold for A2P1 violations, requiring near-complete denial of education rather than substantial interference with educational rights.</item>
+    <item>The Strasbourg jurisprudence establishes that A2P1 is violated where there is unjustified substantial interference with access to education, not only total denial.</item>
+    <item>The judge erred by refusing to consider events post-dating the claim form when assessing an ongoing violation brought by way of judicial review.</item>
+    <item>The cumulative effect of restricted library access and the 50-page limit rendered effective participation in higher education impossible.</item>
+    <item>Education is integral to rehabilitation purposes of imprisonment and restrictions must be justified as necessary and proportionate.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Human Rights Act 1998, s.6 (acts of public authorities)</item>
+    <item>European Convention on Human Rights, Article 2 Protocol 1 (right to education)</item>
+    <item>Prison Rules 1999, r.17 (education facilities)</item>
+    <item>Prison Service Instruction 32/2012 (prisoner education)</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Allow the appeal.</item>
+    <item>Declare that the restrictions constitute a violation of Article 2 Protocol 1 ECHR.</item>
+    <item>Quash the Governor's decision implementing the 50-page monthly limit.</item>
+    <item>Order the Respondent to ensure adequate library access and remove unreasonable restrictions on educational materials.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Velyo Velev v Bulgaria (App No 16032/07) ECHR 27 May 2014</Authority>
+    <Authority>Emine Arac v Turkey (App No 9907/02) ECHR 23 September 2008</Authority>
+    <Authority>Irfan Temel and Others v Turkey (App No 36458/02) ECHR 3 March 2009</Authority>
+    <Authority>R (Daly) v Secretary of State for the Home Department [2001] UKHL 26</Authority>
+    <Authority>R (Osborn) v Parole Board [2013] UKSC 61</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="1 September 2023">Appellant enrolled in Open University BA Social Sciences degree</Event>
+    <Event date="15 September 2024">Security incident at HMP Wandsworth leading to enhanced restrictions</Event>
+    <Event date="22 September 2024">Governor implements 50-page monthly limit on printed materials</Event>
+    <Event date="30 September 2024">Library access hours reduced from 3 hours weekly to 1 hour fortnightly</Event>
+    <Event date="15 October 2024">Appellant submits internal complaint regarding educational restrictions</Event>
+    <Event date="8 November 2024">Complaint rejected by Governor; adjudication confirms restrictions</Event>
+    <Event date="2 December 2024">Pre-action protocol letter sent to Respondent</Event>
+    <Event date="15 January 2025">Judicial review claim issued</Event>
+    <Event date="18 March 2025">Substantive hearing before Foster J in Administrative Court</Event>
+    <Event date="25 April 2025">Judgment finding unlawful administrative action but no A2P1 breach</Event>
+    <Event date="15 May 2025">Permission to appeal granted by Nugee LJ</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The restrictions imposed prevent the Appellant from accessing the materials necessary to complete his degree course. An 800-page reading requirement cannot be satisfied with a 50-page monthly allowance.</Quote>
+    <Quote>Library access of one hour fortnightly is manifestly inadequate for a student pursuing higher education. The reduction from three hours weekly represents an 83% reduction in access.</Quote>
+    <Quote>While the Administrative Court found the Governor's decision unlawful under domestic administrative law, it held that the threshold for violation of Article 2 Protocol 1 had not been met. This sets an impermissibly high bar inconsistent with Strasbourg jurisprudence.</Quote>
+    <Quote>Education performs an integral role in rehabilitation. Restrictions that effectively prevent prisoners from completing higher education courses must be justified as necessary and proportionate, which these restrictions are not.</Quote>
+    <Quote>The jurisprudence of the European Court of Human Rights does not require complete denial of education before Article 2 Protocol 1 is engaged. Substantial and unjustified interference with access to education suffices.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>Ellis-v-SSJ-Appellant-Skeleton-Argument.pdf</SourceFile>
+    <GenerationMethod>Synthetic data generation based on structural and thematic analysis</GenerationMethod>
+  </Provenance>
+</CasePleading>

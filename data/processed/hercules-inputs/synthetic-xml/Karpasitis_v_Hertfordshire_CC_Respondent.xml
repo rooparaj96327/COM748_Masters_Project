@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Karpasitis v Hertfordshire County Council</CaseTitle>
+    <CaseNumber>CA-2023-002207</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2024-06-01</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Hertfordshire County Council</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Andrew Weitzman KC (instructed by Hertfordshire County Council Legal Services)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent maintains that the learned Deputy High Court Judge was correct to find that the statutory defence under section 58 of the Highways Act 1980 had been established. The inspection system was reasonable and the hole was not present at the time of the February 2020 inspection. There was no common law duty to erect signage as alleged.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent is the highway authority responsible for the grass verge, footway and carriageway where the Appellant fell on 22 April 2020.</item>
+    <item>A routine highway inspection was conducted on 13 February 2020 by Mr Cooke, an experienced safety inspector.</item>
+    <item>The hole was very likely not present on 13 February 2020 and developed shortly before the accident, probably due to animal burrowing activity.</item>
+    <item>The hole varied in size over short periods, not being detected on 6 October 2020 but being present again on 30 October 2020.</item>
+    <item>The Appellant was travelling at approximately 10mph and made a sharp right turn onto the verge to overtake a jogger.</item>
+    <item>The general presumption is that paths cannot be used for cycling absent express permission; no shared use signs were present north of the Paul Cully bridge.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent established the statutory defence under section 58 of the Highways Act 1980 by demonstrating reasonable care in highway maintenance.</item>
+    <item>The inspection system as a whole was reasonable and the February 2020 inspection was competent.</item>
+    <item>The hole was not present at the time of the inspection and developed subsequently due to animal activity.</item>
+    <item>There is no common law duty on a highway authority to erect signage; a failure to erect a sign is an omission or non-feasance which does not give rise to liability.</item>
+    <item>The Appellant's speed of 10mph was excessive for the conditions and his sharp right-hand turn made it difficult to see the route ahead.</item>
+    <item>If liability is established, the judge's finding of 33% contributory negligence should be increased.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Highways Act 1980, Section 41 (duty to maintain highways)</item>
+    <item>Highways Act 1980, Section 58 (special defence)</item>
+    <item>Common law principles regarding omissions and non-feasance</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the appeal and uphold the lower court's decision.</item>
+    <item>In the alternative, if the appeal is allowed, increase the finding of contributory negligence beyond 33%.</item>
+    <item>Costs of the appeal.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Gorringe v Calderdale Metropolitan Borough Council [2004] 1 WLR 1057</Authority>
+    <Authority>Jackson v Murray [2015] UKSC 5</Authority>
+    <Authority>The Filiatra Legacy [1991] 2 Lloyd's Rep 337</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="2020-02-13">Highway inspection conducted by Mr Cooke.</Event>
+    <Event date="2020-04-22">Appellant injured when cycling into hole on grass verge adjacent to A10.</Event>
+    <Event date="2023-03-14">Liability trial commenced before Deputy High Court Judge Vikram Sachdeva KC.</Event>
+    <Event date="2023-03-16">Evidence concluded at first instance.</Event>
+    <Event date="2023-03-23">Oral closing submissions at first instance.</Event>
+    <Event date="2023-10-20">Judgment handed down at first instance dismissing the claim.</Event>
+    <Event date="2024-06-01">Respondent's skeleton argument filed for Court of Appeal.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The hole was very likely not present on 13 February 2020 and developed shortly before the accident.</Quote>
+    <Quote>A failure to paint a sign on the road was an omission or non-feasance which does not give rise to liability.</Quote>
+    <Quote>The speed of 10mph was excessive for the conditions.</Quote>
+  </SourceExtracts>
+  <OpposingArguments>
+    <item>The Appellant contends the section 58 defence was not established. The Respondent maintains the inspection was competent and the hole developed after the inspection.</item>
+    <item>The Appellant argues GPS data proves no walked inspection occurred. The Respondent contends the judge was entitled to accept Mr Cooke's evidence.</item>
+    <item>The Appellant claims a duty to erect end-of-path signage. The Respondent maintains there is no such common law duty as this would be non-feasance.</item>
+  </OpposingArguments>
+  <Provenance>
+    <SourceFile>synthetic-Karpasitis-v-Hertfordshire-CC-Respondent-Skeleton-Argument.pdf</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - based on real case Karpasitis v Hertfordshire County Council [2025] EWCA Civ 788</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

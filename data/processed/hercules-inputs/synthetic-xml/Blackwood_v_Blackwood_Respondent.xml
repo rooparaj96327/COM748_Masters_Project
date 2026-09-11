@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Blackwood v Blackwood</CaseTitle>
+    <CaseNumber>CA-2018-006090</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-05-10</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Mr James Blackwood</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Michael Anderson KC; Emma Roberts (instructed by Linklaters LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies breach of trust and contends that his administration has been proper, that any transactions complained of were authorised by the trust deed or by the beneficiaries, and that the claim is time-barred.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The property transaction was approved by independent valuation and all beneficiaries were informed.</item>
+    <item>Investment performance reflects conservative strategy appropriate for the trust's objectives.</item>
+    <item>Distributions have been made in accordance with the trustee's discretion under the trust deed.</item>
+    <item>The Appellant received what she requested and made no complaint at the time.</item>
+    <item>The claim for account relates to matters more than six years old.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The property sale was properly conducted with independent oversight.</item>
+    <item>Investment decisions were reasonable and within the trustee's discretion.</item>
+    <item>Distributions were proper exercises of discretion.</item>
+    <item>Claims relating to matters before 2018 are time-barred.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Trustee Act 1925</item>
+    <item>Trustee Act 2000</item>
+    <item>Limitation Act 1980, s.21</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the claim</item>
+    <item>Alternatively, strike out time-barred claims</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Re Pauling's Settlement Trusts [1964] Ch 303</Authority>
+    <Authority>Walker v Stones [2001] QB 902</Authority>
+    <Authority>Paragon Finance Plc v DB Thakerar &amp; Co [1999] 1 All ER 400</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="16 October 2023">Matter giving rise to proceedings first arose</Event>
+    <Event date="25 November 2023">Claimant first became aware of the alleged breach</Event>
+    <Event date="24 December 2023">Pre-action correspondence commenced</Event>
+    <Event date="19 January 2024">Claim issued in County Court/High Court</Event>
+    <Event date="10 October 2024">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="9 November 2024">Judgment handed down at first instance</Event>
+    <Event date="20 December 2024">Permission to appeal granted</Event>
+    <Event date="10 May 2025">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Mrs Eleanor Blackwood's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <OpposingArguments>
+    <item>The Appellant contends that there was breach of duty. The Respondent denies this and maintains that all obligations were fulfilled.</item>
+    <item>The Appellant argues causation is established. The Respondent contends that any loss was caused by intervening factors.</item>
+  </OpposingArguments>
+  <SecurityConsiderations>
+    <item>The standard of care applicable is that of a reasonably competent practitioner in the relevant field.</item>
+    <item>The burden of proof rests with the Appellant to establish breach and causation on the balance of probabilities.</item>
+  </SecurityConsiderations>
+  <ProportionalityAnalysis>
+    <item>The remedies sought are proportionate to the harm alleged.</item>
+    <item>Alternative remedies have been considered and rejected as inadequate.</item>
+  </ProportionalityAnalysis>
+  <Provenance>
+    <SourceFile>synthetic-case-trusts-and-estates.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

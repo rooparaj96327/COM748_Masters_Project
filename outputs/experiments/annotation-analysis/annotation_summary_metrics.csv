@@ -1,0 +1,11 @@
+metric,count,denominator,percentage
+holding_yes,47,98,48.0
+holding_partial,30,98,30.6
+holding_no,17,98,17.3
+holding_n/a,4,98,4.1
+grounding_yes,3,98,3.1
+grounding_partial,11,98,11.2
+grounding_no,84,98,85.7
+validation_sample_total,98,98,100.0
+real_in_sample,55,98,56.1
+synthetic_in_sample,43,98,43.9

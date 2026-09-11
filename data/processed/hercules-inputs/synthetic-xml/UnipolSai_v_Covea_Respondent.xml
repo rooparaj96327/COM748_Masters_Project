@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseId>ew-cases-EWCA-Civ-2024-1110</CaseId>
+    <CaseTitle>UnipolSai Assicurazioni S.p.A. v Covéa Insurance Plc</CaseTitle>
+    <CaseNumber>CA-2024-000572</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2024-07-18</FilingDate>
+    <PleadingType>Respondent's Case</PleadingType>
+    <Judges>Sir Julian Flaux (Chancellor of the High Court), Lord Justice Newey, Lord Justice Popplewell</Judges>
+  </Header>
+  <Party>
+    <Name>Covéa Insurance Plc</Name>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Alistair Schaff KC and Simon Kerr (instructed by Slaughter and May)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent reinsured contends that the arbitration tribunal and Foxton J correctly found that the outbreak of Covid-19 in the UK constituted "one catastrophe" within the meaning of the Reinsurance, and that an individual loss occurs when a covered peril strikes, not on a day-by-day basis, entitling Covéa to full indemnity for its Covid-19 business interruption losses.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>Covéa provided cover to policyholders running children's nurseries and childcare facilities under its standard NurseryCare Policy wording, including non-damage business interruption cover.</item>
+    <item>The Covéa Reinsurance was a Property Catastrophe Excess of Loss Reinsurance by which Unipol reinsured Covéa.</item>
+    <item>The Class of Business was defined by reference to business written within Covéa's Property Department, and Covéa was the sole judge of classification.</item>
+    <item>Non-damage business interruption cover has been a common feature of property policies since about the beginning of the 21st century.</item>
+    <item>During February-March 2020, there was an "explosion of cases" of Covid-19 within the UK, developing into a disaster engulfing the whole country.</item>
+    <item>The arbitration tribunal found that the exponential increase in Covid-19 infections during the first three weeks of March 2020 amounted to a catastrophe.</item>
+    <item>By 8 June 2023, Covéa's paid losses under nursery care policies amounted to £69.3 million plus £3.2 million in loss adjuster's fees.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The word "catastrophe" in ordinary usage is not confined to events causing physical damage, and no such limitation exists in the reinsurance market meaning of the term.</item>
+    <item>The established market practice by the time the Reinsurance was written, including the widespread writing of non-damage BI cover, supports the tribunal's finding that Covid-19 was a catastrophe.</item>
+    <item>Any competent catastrophe excess of loss underwriter reinsuring a UK property book would have known that the business reinsured might include non-damage business interruption cover.</item>
+    <item>The Hours Clause refers to "any Loss Occurrence of whatsoever nature", clearly extending beyond physical damage perils.</item>
+    <item>An "individual loss" for the purposes of the Hours Clause occurs when the covered peril strikes or affects the insured premises, consistent with the market's treatment of damage business interruption.</item>
+    <item>The tribunal's findings were evaluative conclusions that were not "necessarily inconsistent" with the proper interpretation of "catastrophe" in the Reinsurance.</item>
+    <item>The outbreak of Covid-19 can fairly be regarded as a coherent, discrete happening with an existence, identity and catastrophic character independent of the losses it caused.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Arbitration Act 1996, section 69 (limited grounds for appeal on questions of law)</item>
+    <item>Property Catastrophe Excess of Loss Reinsurance wording, Condition 1 and Condition 2</item>
+    <item>FCA v Arch Insurance (UK) Ltd [2021] UKSC 1 - principles of contractual construction</item>
+    <item>Principle that insurance contracts are "always speaking" and adapt to developments in the relevant book of business</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the appeal in its entirety.</item>
+    <item>Uphold the arbitration Award and the judgment of Foxton J.</item>
+    <item>Confirm that the outbreak of Covid-19 was a "catastrophe" within the meaning of the Reinsurance.</item>
+    <item>Confirm that individual losses occur when the covered peril strikes, entitling Covéa to full indemnity for subsequent business interruption losses.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>FCA v Arch Insurance (UK) Ltd [2021] UKSC 1 (The FCA Test Case)</Authority>
+    <Authority>Stonegate Pub Company Limited v MS Amlin [2022] EWHC 2548 (Comm)</Authority>
+    <Authority>R v Ireland [1998] AC 147 (statutes are "always speaking")</Authority>
+    <Authority>Simmonds v Gammell [2016] EWHC 2515 (Comm)</Authority>
+    <Authority>Oxford English Dictionary and Shorter Oxford English Dictionary definitions of "catastrophe"</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="2 March 2020">First death in UK of someone who tested positive for Covid-19.</Event>
+    <Event date="5 March 2020">Covid-19 made a "Notifiable Disease" in England.</Event>
+    <Event date="16 March 2020">Prime Minister's broadcast advising to avoid non-essential social contact and travel.</Event>
+    <Event date="18 March 2020">Government instructed all schools, colleges and early years facilities to close with effect from 20 March 2020.</Event>
+    <Event date="20 March 2020">School and nursery closures took effect in England.</Event>
+    <Event date="26 March 2020">Health Protection (Coronavirus Restrictions) (England) Regulations came into force.</Event>
+    <Event date="1 June 2020">Phased reopening of schools, colleges and nurseries began.</Event>
+    <Event date="4 July 2020">First lockdown effectively ended.</Event>
+    <Event date="8 June 2023">Covéa's paid losses reached £69.3 million plus £3.2 million fees.</Event>
+    <Event date="9 February 2024">Foxton J handed down judgment dismissing Unipol's appeal.</Event>
+    <Event date="18 July 2024">Appeal hearing before Court of Appeal.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The tribunal found that "if the idea of a 'sudden disaster' is inherent in the meaning of catastrophe" then "the exponential increase in Covid-19 infections in the UK during the first three weeks of March 2020 did amount to a disaster of sudden onset such as to qualify as a catastrophe".</Quote>
+    <Quote>The outbreak of Covid-19 disease in the UK during the few weeks preceding the schools and nurseries closure instruction... amounted to a large-scale national disaster of sudden onset that may accurately be described as a catastrophe.</Quote>
+    <Quote>During this relatively short period, the Covid-19 outbreak assumed a certain coherence in its development and effect and gave rise to a profound subversion of the order of life within the UK.</Quote>
+    <Quote>By the time the Reinsurance was bound at the end of 2019, any competent and experienced catastrophe excess of loss underwriter reinsuring a UK property book would or should have known that the business reinsured might well include both business interruption cover consequential upon physical damage to an insured property and cover for interruption of the business carried on at an insured property from a peril other than physical damage to the property.</Quote>
+    <Quote>The words "of whatsoever nature" were clearly intended to extend beyond unidentified members of the same "nature" as those specifically mentioned, the word "nature" being a powerful indicator in that regard.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>ew-cases-EWCA-Civ-2024-1110.xml</SourceFile>
+  </Provenance>
+</CasePleading>

@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Beacon Manufacturing Ltd v Alliance Insurance Plc</CaseTitle>
+    <CaseNumber>CA-2016-009836</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2021-01-09</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Alliance Insurance Plc</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Robert Wilson KC; Sarah Roberts (instructed by Slaughter and May)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent contends that the claim is excluded under the policy by reason of the Appellant's material non-disclosure and/or breach of warranty regarding fire safety systems.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The proposal form specifically asked about previous fire incidents and the Appellant answered 'None'.</item>
+    <item>The Appellant had experienced two previous fires in 2018 and 2020, neither of which was disclosed.</item>
+    <item>The policy contained a warranty requiring maintenance of fire suppression systems to British Standards.</item>
+    <item>At the time of the fire, the sprinkler system had been partially decommissioned for maintenance.</item>
+    <item>Had the true position been disclosed, the Respondent would not have written the risk.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The non-disclosure was of material facts that induced the contract.</item>
+    <item>The Respondent is entitled to avoid the policy for material non-disclosure.</item>
+    <item>Breach of the fire safety warranty discharged the Respondent's liability.</item>
+    <item>The claim is in any event exaggerated and not proven.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Insurance Act 2015</item>
+    <item>Consumer Insurance (Disclosure and Representations) Act 2012</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Declaration that the policy is void ab initio</item>
+    <item>Alternatively, that there is no cover for the claim</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd [1995] 1 AC 501</Authority>
+    <Authority>Drake Insurance Plc v Provident Insurance Plc [2003] EWCA Civ 1834</Authority>
+    <Authority>Axa General Insurance Ltd v Gottlieb [2005] EWCA Civ 112</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="14 March 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="17 May 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="23 May 2019">Pre-action correspondence commenced</Event>
+    <Event date="27 May 2019">Claim issued in County Court/High Court</Event>
+    <Event date="29 March 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="16 May 2020">Judgment handed down at first instance</Event>
+    <Event date="17 June 2020">Permission to appeal granted</Event>
+    <Event date="9 January 2021">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Beacon Manufacturing Ltd's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <OpposingArguments>
+    <item>The Appellant contends that there was breach of duty. The Respondent denies this and maintains that all obligations were fulfilled.</item>
+    <item>The Appellant argues causation is established. The Respondent contends that any loss was caused by intervening factors.</item>
+  </OpposingArguments>
+  <SecurityConsiderations>
+    <item>The standard of care applicable is that of a reasonably competent practitioner in the relevant field.</item>
+    <item>The burden of proof rests with the Appellant to establish breach and causation on the balance of probabilities.</item>
+  </SecurityConsiderations>
+  <ProportionalityAnalysis>
+    <item>The remedies sought are proportionate to the harm alleged.</item>
+    <item>Alternative remedies have been considered and rejected as inadequate.</item>
+  </ProportionalityAnalysis>
+  <Provenance>
+    <SourceFile>synthetic-case-insurance-coverage.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

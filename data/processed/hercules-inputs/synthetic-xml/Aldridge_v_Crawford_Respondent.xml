@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Aldridge v Crawford</CaseTitle>
+    <CaseNumber>CA-2022-008247</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-06-11</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Mr Timothy Crawford</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Elizabeth Wilson KC; Victoria Mitchell (instructed by Slaughter and May)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent contends that the boundary is as shown on his title plan, alternatively that he has acquired title to the disputed strip by adverse possession.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent has maintained the disputed strip as part of his garden since purchasing in 1998.</item>
+    <item>The fence was present when the Respondent purchased and he has maintained it continuously since.</item>
+    <item>The Respondent and his predecessors have possessed the disputed strip for more than 12 years before 2003.</item>
+    <item>The Appellants and their predecessors never objected to the fence position.</item>
+    <item>The Respondent's use has been open, continuous and adverse.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent acquired title by adverse possession before 13 October 2003.</item>
+    <item>Alternatively, the boundary has been established by long acquiescence.</item>
+    <item>The Appellants' predecessors accepted the fence line as the boundary.</item>
+    <item>It would be inequitable to require removal of the fence after such long possession.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Land Registration Act 2002</item>
+    <item>Limitation Act 1980, s.15</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the claim</item>
+    <item>Alternatively, declaration of possessory title</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>J A Pye (Oxford) Ltd v Graham [2002] UKHL 30</Authority>
+    <Authority>Zarb v Parry [2011] EWCA Civ 1306</Authority>
+    <Authority>Dowse v City of Bradford Metropolitan Council [2020] UKUT 202</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="25 June 2020">Matter giving rise to proceedings first arose</Event>
+    <Event date="2 August 2020">Claimant first became aware of the alleged breach</Event>
+    <Event date="8 August 2020">Pre-action correspondence commenced</Event>
+    <Event date="15 September 2020">Claim issued in County Court/High Court</Event>
+    <Event date="13 October 2021">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="4 December 2021">Judgment handed down at first instance</Event>
+    <Event date="9 January 2022">Permission to appeal granted</Event>
+    <Event date="11 June 2022">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Mr and Mrs Simon Aldridge's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-property---boundary-dispute.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

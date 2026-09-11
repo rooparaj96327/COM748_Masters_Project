@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Sterling Investments Ltd v Blackwood Capital Partners LLP</CaseTitle>
+    <CaseNumber>CA-2022-000651</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-11-26</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Sterling Investments Ltd</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Michael Taylor KC; Sarah Clarke (instructed by Freshfields Bruckhaus Deringer LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant seeks damages for breach of an investment management agreement, contending that the Respondent failed to exercise reasonable skill and care in managing a £45 million portfolio, resulting in losses of approximately £12 million.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant entered into an Investment Management Agreement with the Respondent dated 15 March 2018.</item>
+    <item>The Agreement required the Respondent to manage the portfolio with reasonable skill and care appropriate to a professional investment manager.</item>
+    <item>Between September 2019 and March 2020, the Respondent concentrated 40% of the portfolio in technology sector derivatives contrary to the agreed risk parameters.</item>
+    <item>The Appellant suffered losses of £12.3 million when the technology sector experienced significant correction in Q1 2020.</item>
+    <item>Despite requests, the Respondent failed to provide adequate documentation of its investment rationale.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent breached its duty of care by failing to diversify the portfolio adequately.</item>
+    <item>The concentration in technology derivatives exceeded the risk parameters agreed in the Investment Management Agreement.</item>
+    <item>The Respondent failed to conduct adequate due diligence before making the investments complained of.</item>
+    <item>The losses were caused by the Respondent's breach of duty and not by unforeseeable market conditions.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Financial Services and Markets Act 2000, s.138D</item>
+    <item>Senior Courts Act 1981, s.35A</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Damages in the sum of £12,300,000</item>
+    <item>Interest pursuant to s.35A Senior Courts Act 1981</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Hedley Byrne &amp; Co Ltd v Heller &amp; Partners Ltd [1964] AC 465</Authority>
+    <Authority>Henderson v Merrett Syndicates Ltd [1995] 2 AC 145</Authority>
+    <Authority>Rubenstein v HSBC Bank plc [2012] EWCA Civ 1184</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="7 July 2024">Matter giving rise to proceedings first arose</Event>
+    <Event date="21 August 2024">Claimant first became aware of the alleged breach</Event>
+    <Event date="29 August 2024">Pre-action correspondence commenced</Event>
+    <Event date="30 August 2024">Claim issued in County Court/High Court</Event>
+    <Event date="5 April 2025">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="7 May 2025">Judgment handed down at first instance</Event>
+    <Event date="11 June 2025">Permission to appeal granted</Event>
+    <Event date="26 November 2025">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Blackwood Capital Partners LLP failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-commercial-contract.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

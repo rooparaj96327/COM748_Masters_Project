@@ -1,0 +1,89 @@
+COM748 Hercules Audit - Frozen Baseline Manifest
+================================================
+
+Freeze date: 2026-08-31
+Freeze time: 18:26:34 Europe/London
+Workspace:
+F:\1_Ulster_Uni\MSc_AI\7_COM748_Masters_Project\COM748_Hercules_Audit
+
+Project:
+Auditing AI-Generated Draft Judgments: Citation Provenance, Holding Accuracy, and Reasoning Grounding
+
+Student:
+Roopa Raj, B00871016
+
+Status:
+Frozen dataset and analysis snapshot for dissertation write-up.
+
+Frozen empirical scope
+----------------------
+
+This snapshot freezes the available Hercules audit data and supporting scripts.
+It should be treated as the baseline evidence package for the final report.
+
+The frozen study covers:
+
+1. Extraction of citations from Hercules-generated draft judgments.
+2. Linkage of each generated draft to its closest exported semantic-search
+   record.
+3. Verification of citation status against the linked retrieval record and the
+   frozen Qdrant corpus registry.
+4. Manual authority-group review of citation correctness.
+5. Manual holding-accuracy and reasoning-grounding annotation on a validation
+   sample.
+6. Automated screening-verifier predictions and validation against adjudicated
+   human labels.
+7. Exploratory comparison between real and synthetic input documents.
+
+Frozen dataset counts
+---------------------
+
+- Draft judgments analysed: 59
+- Citation occurrences analysed: 115
+- Validation sample: 50 draft judgments, 98 citation occurrences
+- Real-input draft judgments: 34
+- Synthetic-input draft judgments: 25
+- Unique citation authority groups reviewed: 35
+
+Core frozen files
+-----------------
+
+- data/raw/database-exports/draft_decisions_59_2026-08-14.json
+- data/raw/database-exports/semantic_searches_66_2026-08-14.json
+- data/raw/system-exports/qdrant/qdrant_corpus_registry_2026-08-14.csv
+- data/processed/judgment_citations_59.csv
+- data/processed/retrieval_linkage_59.csv
+- data/processed/citation_retrieval_verification_115.csv
+- data/processed/unique_citation_review.xlsx
+- annotations/holding_grounding_annotation.xlsx
+- annotations/holding_grounding_codebook.md
+- outputs/verifier_predictions_v1.csv
+- outputs/verifier_metrics_v1.json
+- outputs/experiments/citation-analysis/paper_results_metrics.csv
+- outputs/experiments/citation-analysis/input_type_normalized_metrics.csv
+- src/hercules_verifier/hercules_verifier.py
+
+Methodological boundaries for final report
+------------------------------------------
+
+The original proposal included controlled experiments varying retrieval depth,
+prompt design, and model choice. Those experiments are not included in this
+frozen empirical snapshot. The final report should describe this as a revised
+scope and explain that the submitted analysis focuses on auditing the frozen
+Hercules output/retrieval corpus rather than experimentally modifying Hercules.
+
+The verifier should be described as an automated screening verifier. In the
+current run, authoritative holding-source text was not supplied, so automated
+holding-accuracy predictions are mostly `unclear`. Substantive holding-accuracy
+findings should therefore be based on the manual/adjudicated annotation fields,
+not on the verifier's lexical holding prediction alone.
+
+The real-versus-synthetic comparison is exploratory because the data are a
+convenience sample and not a random sample of all Hercules generations.
+
+Reproducibility note
+--------------------
+
+`project_inventory.csv` records the file-level inventory and SHA-256 hashes for
+the frozen project files, excluding local environment folders such as `.venv`
+and assistant/tooling settings such as `.claude`.

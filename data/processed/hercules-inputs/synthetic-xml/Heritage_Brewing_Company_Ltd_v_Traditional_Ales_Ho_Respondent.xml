@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Heritage Brewing Company Ltd v Traditional Ales Holdings Plc</CaseTitle>
+    <CaseNumber>CA-2019-005474</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2021-06-20</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Traditional Ales Holdings Plc</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Victoria Moore KC; David Roberts (instructed by Linklaters LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies invalidity and contends that its mark was registered in good faith, that there is no likelihood of confusion, and that the Appellant's use is insufficient to found passing off rights.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Respondent's mark covers different goods and services from the Appellant's use.</item>
+    <item>The Appellant's use was geographically limited and did not establish national reputation.</item>
+    <item>The marks are sufficiently different to avoid likelihood of confusion.</item>
+    <item>The Respondent conducted searches before registration and did not discover the Appellant's use.</item>
+    <item>The Appellant delayed unreasonably in challenging the registration.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The registration was made in good faith following proper searches.</item>
+    <item>There is no likelihood of confusion given the differences in marks and trade channels.</item>
+    <item>The Appellant lacks sufficient goodwill to maintain a passing off claim.</item>
+    <item>The challenge is out of time and should be dismissed.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Trade Marks Act 1994</item>
+    <item>Intellectual Property Act 2014</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the application</item>
+    <item>Costs on indemnity basis</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Hotel Cipriani SRL v Cipriani (Grosvenor Street) Ltd [2010] EWCA Civ 110</Authority>
+    <Authority>Maier v ASOS Plc [2015] EWCA Civ 220</Authority>
+    <Authority>Comic Enterprises Ltd v Twentieth Century Fox Film Corp [2016] EWCA Civ 41</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="11 May 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="21 June 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="17 July 2019">Pre-action correspondence commenced</Event>
+    <Event date="12 August 2019">Claim issued in County Court/High Court</Event>
+    <Event date="15 October 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="27 November 2020">Judgment handed down at first instance</Event>
+    <Event date="6 January 2021">Permission to appeal granted</Event>
+    <Event date="20 June 2021">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Heritage Brewing Company Ltd's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-intellectual-property---trade-marks.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

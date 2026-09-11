@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Sharma v Meridian Financial Services Ltd</CaseTitle>
+    <CaseNumber>CA-2015-000120</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2020-11-29</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Ms Priya Sharma</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>William Hughes KC; William Anderson (instructed by Allen &amp; Overy LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant claims she was subjected to race discrimination and harassment during her employment and that her subsequent dismissal constituted victimisation for having raised complaints about discriminatory treatment.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant was employed as a Senior Analyst from September 2019 until her dismissal in March 2024.</item>
+    <item>Throughout her employment, the Appellant was subjected to microaggressions and exclusion from team events by her manager.</item>
+    <item>The Appellant raised a formal grievance alleging race discrimination in November 2023.</item>
+    <item>Two months after raising her grievance, the Appellant was placed on a Performance Improvement Plan.</item>
+    <item>The Appellant was dismissed in March 2024 allegedly for failing the PIP.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Appellant was treated less favourably than comparators because of her race.</item>
+    <item>The conduct of her manager constituted harassment related to race.</item>
+    <item>The timing of the PIP and dismissal demonstrates victimisation.</item>
+    <item>The burden shifts to the Respondent to prove non-discriminatory reasons.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Equality Act 2010, ss.13, 26, 27, 39</item>
+    <item>Employment Rights Act 1996, s.98</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Declaration of discrimination</item>
+    <item>Compensation for injury to feelings</item>
+    <item>Compensation for financial loss</item>
+    <item>Recommendation</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Shamoon v Chief Constable of the Royal Ulster Constabulary [2003] UKHL 11</Authority>
+    <Authority>Igen Ltd v Wong [2005] EWCA Civ 142</Authority>
+    <Authority>Nagarajan v London Regional Transport [1999] IRLR 572</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="24 April 2019">Matter giving rise to proceedings first arose</Event>
+    <Event date="15 June 2019">Claimant first became aware of the alleged breach</Event>
+    <Event date="25 June 2019">Pre-action correspondence commenced</Event>
+    <Event date="28 June 2019">Claim issued in County Court/High Court</Event>
+    <Event date="4 April 2020">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="28 April 2020">Judgment handed down at first instance</Event>
+    <Event date="28 May 2020">Permission to appeal granted</Event>
+    <Event date="29 November 2020">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Meridian Financial Services Ltd failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-employment---discrimination.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

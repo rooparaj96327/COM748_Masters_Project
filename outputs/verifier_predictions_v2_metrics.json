@@ -1,0 +1,253 @@
+{
+  "verifier_version": "1.0.0",
+  "input_workbook": "holding_grounding_annotation.xlsx",
+  "parameters": {
+    "sample_only": false,
+    "use_workbook_registry_flags": true,
+    "authoritative_sources_supplied": false,
+    "corpus_registry_supplied": true,
+    "thresholds": {
+      "holding_yes": 0.55,
+      "holding_partial": 0.25,
+      "grounding_yes": 0.35,
+      "grounding_partial": 0.15
+    }
+  },
+  "coverage": {
+    "citation_occurrences": 115,
+    "unique_drafts": 59,
+    "validation_occurrences": 98
+  },
+  "prediction_distributions": {
+    "citation_status": {
+      "in_corpus_not_retrieved": 39,
+      "not_applicable_non_case_reference": 5,
+      "not_found_in_corpus_registry": 56,
+      "retrieved_and_cited": 14,
+      "retrieved_id_citation_mismatch": 1
+    },
+    "holding_accuracy": {
+      "n/a": 5,
+      "unclear": 110
+    },
+    "reasoning_grounding": {
+      "no": 106,
+      "partial": 9
+    },
+    "holding_source": {
+      "none": 115
+    }
+  },
+  "score_summaries": {
+    "holding": {
+      "minimum": 0.0,
+      "median": 0.0,
+      "mean": 0.0,
+      "maximum": 0.0
+    },
+    "grounding": {
+      "minimum": 0.0016,
+      "median": 0.1206,
+      "mean": 0.13400608695652175,
+      "maximum": 0.3409
+    }
+  },
+  "validation": {
+    "citation_status": {
+      "paired_rows": 98,
+      "exact_accuracy": 0.8571428571428571,
+      "balanced_accuracy": 0.7735849056603774,
+      "cohens_kappa": 0.7665872745831914,
+      "macro_f1_defined_classes": 0.8716914805624483,
+      "confusion_matrix_predicted_by_truth": {
+        "in_corpus_not_retrieved": {
+          "in_corpus_not_retrieved": 29,
+          "not_applicable_non_case_reference": 0,
+          "not_found_in_corpus_registry": 2,
+          "retrieved_and_cited": 0,
+          "retrieved_id_citation_mismatch": 2
+        },
+        "not_applicable_non_case_reference": {
+          "in_corpus_not_retrieved": 0,
+          "not_applicable_non_case_reference": 4,
+          "not_found_in_corpus_registry": 0,
+          "retrieved_and_cited": 0,
+          "retrieved_id_citation_mismatch": 0
+        },
+        "not_found_in_corpus_registry": {
+          "in_corpus_not_retrieved": 0,
+          "not_applicable_non_case_reference": 0,
+          "not_found_in_corpus_registry": 46,
+          "retrieved_and_cited": 0,
+          "retrieved_id_citation_mismatch": 5
+        },
+        "retrieved_and_cited": {
+          "in_corpus_not_retrieved": 0,
+          "not_applicable_non_case_reference": 0,
+          "not_found_in_corpus_registry": 5,
+          "retrieved_and_cited": 5,
+          "retrieved_id_citation_mismatch": 0
+        },
+        "retrieved_id_citation_mismatch": {
+          "in_corpus_not_retrieved": 0,
+          "not_applicable_non_case_reference": 0,
+          "not_found_in_corpus_registry": 0,
+          "retrieved_and_cited": 0,
+          "retrieved_id_citation_mismatch": 0
+        }
+      },
+      "per_class": {
+        "in_corpus_not_retrieved": {
+          "support": 29,
+          "precision": 0.8787878787878788,
+          "recall": 1.0,
+          "f1": 0.9354838709677419
+        },
+        "not_applicable_non_case_reference": {
+          "support": 4,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "not_found_in_corpus_registry": {
+          "support": 53,
+          "precision": 0.9019607843137255,
+          "recall": 0.8679245283018868,
+          "f1": 0.8846153846153846
+        },
+        "retrieved_and_cited": {
+          "support": 5,
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1": 0.6666666666666666
+        },
+        "retrieved_id_citation_mismatch": {
+          "support": 7,
+          "precision": null,
+          "recall": 0.0,
+          "f1": null
+        }
+      }
+    },
+    "holding_accuracy": {
+      "paired_rows": 98,
+      "exact_accuracy": 0.04081632653061224,
+      "balanced_accuracy": 0.25,
+      "cohens_kappa": 0.039215686274509796,
+      "macro_f1_defined_classes": 1.0,
+      "confusion_matrix_predicted_by_truth": {
+        "n/a": {
+          "n/a": 4,
+          "no": 0,
+          "partial": 0,
+          "unclear": 0,
+          "yes": 0
+        },
+        "no": {
+          "n/a": 0,
+          "no": 0,
+          "partial": 0,
+          "unclear": 0,
+          "yes": 0
+        },
+        "partial": {
+          "n/a": 0,
+          "no": 0,
+          "partial": 0,
+          "unclear": 0,
+          "yes": 0
+        },
+        "unclear": {
+          "n/a": 0,
+          "no": 17,
+          "partial": 30,
+          "unclear": 0,
+          "yes": 47
+        },
+        "yes": {
+          "n/a": 0,
+          "no": 0,
+          "partial": 0,
+          "unclear": 0,
+          "yes": 0
+        }
+      },
+      "per_class": {
+        "n/a": {
+          "support": 4,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "no": {
+          "support": 17,
+          "precision": null,
+          "recall": 0.0,
+          "f1": null
+        },
+        "partial": {
+          "support": 30,
+          "precision": null,
+          "recall": 0.0,
+          "f1": null
+        },
+        "unclear": {
+          "support": 0,
+          "precision": 0.0,
+          "recall": null,
+          "f1": null
+        },
+        "yes": {
+          "support": 47,
+          "precision": null,
+          "recall": 0.0,
+          "f1": null
+        }
+      }
+    },
+    "reasoning_grounding": {
+      "paired_rows": 98,
+      "exact_accuracy": 0.8571428571428571,
+      "balanced_accuracy": 0.41233766233766234,
+      "cohens_kappa": 0.24198895027624298,
+      "macro_f1_defined_classes": 0.6366978609625669,
+      "confusion_matrix_predicted_by_truth": {
+        "no": {
+          "no": 81,
+          "partial": 8,
+          "yes": 3
+        },
+        "partial": {
+          "no": 3,
+          "partial": 3,
+          "yes": 0
+        },
+        "yes": {
+          "no": 0,
+          "partial": 0,
+          "yes": 0
+        }
+      },
+      "per_class": {
+        "no": {
+          "support": 84,
+          "precision": 0.8804347826086957,
+          "recall": 0.9642857142857143,
+          "f1": 0.9204545454545455
+        },
+        "partial": {
+          "support": 11,
+          "precision": 0.5,
+          "recall": 0.2727272727272727,
+          "f1": 0.3529411764705882
+        },
+        "yes": {
+          "support": 3,
+          "precision": null,
+          "recall": 0.0,
+          "f1": null
+        }
+      }
+    }
+  }
+}

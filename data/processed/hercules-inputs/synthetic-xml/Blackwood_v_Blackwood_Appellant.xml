@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Blackwood v Blackwood</CaseTitle>
+    <CaseNumber>CA-2018-006090</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2025-04-15</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+  </Header>
+  <Party>
+    <n>Mrs Eleanor Blackwood</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Emma Moore KC; Robert Clarke (instructed by Clifford Chance LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant beneficiary seeks an account and removal of the Respondent as trustee, contending that he has breached his fiduciary duties by self-dealing, failing to invest trust assets prudently, and favouring himself as a beneficiary.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The trust was established by the parties' late father in 2010 with assets of approximately £8 million.</item>
+    <item>The Respondent is sole trustee and also a discretionary beneficiary.</item>
+    <item>The Respondent purchased a property from the trust in 2018 at an alleged undervalue of £350,000.</item>
+    <item>Trust investments have performed 40% below benchmark over the period 2015-2023.</item>
+    <item>The Respondent has made distributions to himself totalling £1.2 million while distributing only £200,000 to the Appellant.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The Respondent breached the self-dealing rule by purchasing trust property.</item>
+    <item>The Respondent has failed to invest with due care and diversification.</item>
+    <item>The distribution pattern demonstrates improper favouritism.</item>
+    <item>The limitation period does not apply to claims for breach of fiduciary duty.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Trustee Act 1925</item>
+    <item>Trustee Act 2000</item>
+    <item>Limitation Act 1980, s.21</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Account of administration</item>
+    <item>Removal of the Respondent as trustee</item>
+    <item>Equitable compensation</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Armitage v Nurse [1998] Ch 241</Authority>
+    <Authority>Spread Trustee Co Ltd v Hutcheson [2011] UKPC 13</Authority>
+    <Authority>Target Holdings Ltd v Redferns [1996] AC 421</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="9 September 2023">Matter giving rise to proceedings first arose</Event>
+    <Event date="6 November 2023">Claimant first became aware of the alleged breach</Event>
+    <Event date="9 December 2023">Pre-action correspondence commenced</Event>
+    <Event date="17 December 2023">Claim issued in County Court/High Court</Event>
+    <Event date="30 August 2024">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="23 September 2024">Judgment handed down at first instance</Event>
+    <Event date="18 October 2024">Permission to appeal granted</Event>
+    <Event date="15 April 2025">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Mr James Blackwood failed to discharge its duty of care in the circumstances.</Quote>
+    <Quote>The learned judge erred in concluding that the burden of proof had been satisfied.</Quote>
+    <Quote>The evidence before the court clearly established the breach alleged.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-case-trusts-and-estates.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

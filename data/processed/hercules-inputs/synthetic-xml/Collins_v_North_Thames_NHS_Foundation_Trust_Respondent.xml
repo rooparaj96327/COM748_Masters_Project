@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Collins v North Thames NHS Foundation Trust</CaseTitle>
+    <CaseNumber>CA-2019-004792</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2022-01-16</FilingDate>
+    <PleadingType>Respondent's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>North Thames NHS Foundation Trust</n>
+    <Role>Respondent</Role>
+    <Counsel>
+      <Lead>Elizabeth Hughes KC; Catherine Roberts (instructed by Linklaters LLP)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Respondent denies negligence and contends that the clinical presentations were consistent with more common conditions, that appropriate investigations were undertaken, and that earlier diagnosis would not have altered the outcome.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>The Appellant's initial presentations were consistent with mechanical lower back pain, a common condition.</item>
+    <item>Appropriate clinical examinations were performed at each consultation.</item>
+    <item>Red flag symptoms only became apparent at the February 2021 consultation, at which point an urgent MRI was arranged.</item>
+    <item>The tumour type in question has an unpredictable progression pattern.</item>
+    <item>Even with earlier diagnosis, the Appellant would likely have required surgery with similar risks.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The clinical decisions taken were reasonable and in accordance with accepted practice.</item>
+    <item>The symptoms at the earlier consultations did not mandate MRI investigation.</item>
+    <item>Even with earlier diagnosis, the outcome would have been the same or similar.</item>
+    <item>Causation is not established on the balance of probabilities.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>NHS Act 2006</item>
+    <item>Limitation Act 1980, s.11</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>Dismiss the claim</item>
+    <item>Costs</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Maynard v West Midlands Regional Health Authority [1984] 1 WLR 634</Authority>
+    <Authority>Wilsher v Essex Area Health Authority [1988] AC 1074</Authority>
+    <Authority>Bailey v Ministry of Defence [2008] EWCA Civ 883</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="29 June 2020">Matter giving rise to proceedings first arose</Event>
+    <Event date="13 August 2020">Claimant first became aware of the alleged breach</Event>
+    <Event date="28 August 2020">Pre-action correspondence commenced</Event>
+    <Event date="19 September 2020">Claim issued in County Court/High Court</Event>
+    <Event date="29 May 2021">First instance hearing before Deputy High Court Judge</Event>
+    <Event date="28 June 2021">Judgment handed down at first instance</Event>
+    <Event date="1 August 2021">Permission to appeal granted</Event>
+    <Event date="16 January 2022">Skeleton argument filed</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The Mrs Jennifer Collins's case is fundamentally misconceived.</Quote>
+    <Quote>The first instance decision was correct and should not be disturbed.</Quote>
+    <Quote>No error of law has been demonstrated that would justify appellate intervention.</Quote>
+  </SourceExtracts>
+  <OpposingArguments>
+    <item>The Appellant contends that there was breach of duty. The Respondent denies this and maintains that all obligations were fulfilled.</item>
+    <item>The Appellant argues causation is established. The Respondent contends that any loss was caused by intervening factors.</item>
+  </OpposingArguments>
+  <SecurityConsiderations>
+    <item>The standard of care applicable is that of a reasonably competent practitioner in the relevant field.</item>
+    <item>The burden of proof rests with the Appellant to establish breach and causation on the balance of probabilities.</item>
+  </SecurityConsiderations>
+  <ProportionalityAnalysis>
+    <item>The remedies sought are proportionate to the harm alleged.</item>
+    <item>Alternative remedies have been considered and rejected as inadequate.</item>
+  </ProportionalityAnalysis>
+  <Provenance>
+    <SourceFile>synthetic-case-medical-negligence.json</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - not a real legal case</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

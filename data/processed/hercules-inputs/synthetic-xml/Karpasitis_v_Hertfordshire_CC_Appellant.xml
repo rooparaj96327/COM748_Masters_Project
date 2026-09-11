@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CasePleading version="1.0">
+  <Header>
+    <CaseTitle>Karpasitis v Hertfordshire County Council</CaseTitle>
+    <CaseNumber>CA-2023-002207</CaseNumber>
+    <Court>Court of Appeal (Civil Division)</Court>
+    <FilingDate>2024-05-15</FilingDate>
+    <PleadingType>Appellant's Skeleton Argument</PleadingType>
+    <AppealFrom>High Court of Justice, King's Bench Division</AppealFrom>
+  </Header>
+  <Party>
+    <n>Mr Demetrios Karpasitis</n>
+    <Role>Appellant</Role>
+    <Counsel>
+      <Lead>Martin Porter KC; Anastasia Karseras (instructed by Bolt Burdon Kemp)</Lead>
+    </Counsel>
+  </Party>
+  <SummaryOfPosition>
+    <Summary>The Appellant contends that the learned Deputy High Court Judge erred in finding that the Respondent highway authority had established the statutory defence afforded by section 58 of the Highways Act 1980. The Judge further erred in dismissing the common law negligence claim regarding the absence of signage indicating the end of the shared cycle path.</Summary>
+  </SummaryOfPosition>
+  <FactsReliedOn>
+    <item>On 22 April 2020, the Appellant was riding his mountain bike on a path adjacent to the A10 carriageway near Cheshunt, separated by a grass verge.</item>
+    <item>The Appellant encountered a jogger travelling in the same direction and moved onto the grass verge to overtake safely.</item>
+    <item>There was a concealed hole in the grass verge which caused the Appellant to be thrown from his bicycle.</item>
+    <item>The Appellant sustained serious injuries including a complex fracture of the second cervical vertebra, requiring him to give up his employment as a social worker.</item>
+    <item>The Respondent's highway inspector, Mr Cooke, claimed to have conducted a walked inspection on 13 February 2020 but GPS data from his vehicle showed he only stopped once for three minutes.</item>
+    <item>Mr Cooke did not attend trial, having retired, and the Respondent served a Civil Evidence Act Notice less than three weeks before trial.</item>
+  </FactsReliedOn>
+  <Contentions>
+    <item>The learned judge erred in finding that the Respondent had established the statutory defence under section 58 of the Highways Act 1980.</item>
+    <item>The GPS evidence demonstrated that Mr Cooke could not have performed a walked inspection of the relevant area on 13 February 2020.</item>
+    <item>The judge erred in treating Mr Cooke's witness statement evidence as credible when it was manifestly inconsistent with contemporaneous GPS data.</item>
+    <item>The Respondent owed a common law duty of care to erect signage indicating the end of the shared cycle facility.</item>
+    <item>It was foreseeable that cyclists would use the grass verge to pass other highway users.</item>
+  </Contentions>
+  <LegalBasis>
+    <item>Highways Act 1980, Section 41 (duty to maintain highways)</item>
+    <item>Highways Act 1980, Section 58 (special defence)</item>
+    <item>Common law duty of care</item>
+  </LegalBasis>
+  <ReliefSought>
+    <item>An order allowing the appeal against the lower court's decision dismissing the claim.</item>
+    <item>A finding that the Respondent failed to establish the section 58 defence.</item>
+    <item>A declaration that the Respondent breached its duty under section 41 of the Highways Act 1980.</item>
+    <item>Damages for the injuries sustained by the Appellant.</item>
+  </ReliefSought>
+  <AuthoritiesCited>
+    <Authority>Gorringe v Calderdale Metropolitan Borough Council [2004] 1 WLR 1057</Authority>
+    <Authority>The Filiatra Legacy [1991] 2 Lloyd's Rep 337</Authority>
+    <Authority>Jackson v Murray [2015] UKSC 5</Authority>
+  </AuthoritiesCited>
+  <Timeline>
+    <Event date="2020-02-13">Highway inspection allegedly conducted by Mr Cooke.</Event>
+    <Event date="2020-04-22">Appellant injured when cycling into concealed hole on grass verge adjacent to A10.</Event>
+    <Event date="2023-03-14">Liability trial commenced before Deputy High Court Judge Vikram Sachdeva KC.</Event>
+    <Event date="2023-03-16">Evidence concluded at first instance.</Event>
+    <Event date="2023-03-23">Oral closing submissions at first instance.</Event>
+    <Event date="2023-10-20">Judgment handed down at first instance dismissing the claim.</Event>
+    <Event date="2024-05-15">Appellant's skeleton argument filed for Court of Appeal.</Event>
+  </Timeline>
+  <SourceExtracts>
+    <Quote>The GPS data indicated that the inspector could not have performed a walking inspection of the relevant area.</Quote>
+    <Quote>A cyclist using the grass verge to pass another highway user was plainly foreseeable and represented ordinary use of the highway.</Quote>
+    <Quote>The assertion that a walked inspection had been carried out should have been treated as manifestly incredible and given no weight.</Quote>
+  </SourceExtracts>
+  <Provenance>
+    <SourceFile>synthetic-Karpasitis-v-Hertfordshire-CC-Appellant-Skeleton-Argument.pdf</SourceFile>
+    <GeneratedBy>Claude AI - Synthetic Legal Data Generation</GeneratedBy>
+    <Purpose>Training and research purposes only - based on real case Karpasitis v Hertfordshire County Council [2025] EWCA Civ 788</Purpose>
+    <GenerationDate>2026-01-12</GenerationDate>
+  </Provenance>
+</CasePleading>

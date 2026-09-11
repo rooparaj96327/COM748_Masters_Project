@@ -1,0 +1,60 @@
+draft_id,case_doc_id,input_type,citation_mentions,correct_mentions,incomplete_mentions,incorrect_mentions,strict_defect_mentions,strict_defect_rate,incorrect_rate
+cmsbrvtc4001304jp5e4691on,2023-002546-ryanair-dac-v-jason-lutz-appellant-skeleton,real,3,3,0,0,0,0.0,0.0
+cmsbracw1001r04l4az8ukhd1,ca-2023-002207-mr-demetrios-karpasitis-v-hertfordshire-county-appellant-skeleton,real,2,1,1,0,1,0.5,0.0
+cmsbrc37v001x04l4t7r77h89,ca-2023-002207-mr-demetrios-karpasitis-v-hertfordshire-county-appellant-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbskr86000h04ji5a4thcht,ca-2023-002537-storm-global-limited-v-jason-lutz-appellant-skeleton,real,2,2,0,0,0,0.0,0.0
+cmmc4a8zu000h04jx2w3r0hzo,ca-2024-000255-ellis-v-ssj-appellant-skeleton,real,2,1,0,1,1,0.5,0.5
+cmmjsmua2000q04jstd4i8p7c,ca-2024-000255-ellis-v-ssj-appellant-skeleton,real,1,1,0,0,0,0.0,0.0
+cmmjtnsdx000904l4vhap8xwc,ca-2024-000255-ellis-v-ssj-appellant-skeleton,real,2,2,0,0,0,0.0,0.0
+cmmrr64va000h04jvzuquhz2y,ca-2024-000255-ellis-v-ssj-appellant-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbqvqsj000h04jnb8tn656h,ca-2024-000255-the-king-on-the-application-of-appellant-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbsp3em001104ji2u62id7q,ca-2024-000624 and ca-2024-000625-the-royal-embassy-of-saudi-arabia-appellant-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbsqcqm001d04ji3ses9ih9,ca-2024-000624 and ca-2024-000625-the-royal-embassy-of-saudi-arabia-appellant-skeleton,real,1,1,0,0,0,0.0,0.0
+cmsbr3045000j04l4tkps7ymp,ca-2024-000806-hippodrome-casino-ltd-v-hmrc-appellant-skeleton,real,3,2,1,0,1,0.3333333333333333,0.0
+cmsbr4fhb000v04l4mgwtz5x1,ca-2024-000806-hippodrome-casino-ltd-v-hmrc-appellant-skeleton,real,1,1,0,0,0,0.0,0.0
+cmsbr6p4p001704l4z7u6108h,ca-2024-000806-hippodrome-casino-ltd-v-hmrc-appellant-skeleton,real,1,1,0,0,0,0.0,0.0
+cms1ps00j000j04jsbxrn9wrj,ca-2024-001541-the-king-on-the-application-of-respondent-skeleton,real,2,2,0,0,0,0.0,0.0
+cms1u865i000904jxu5huyjg5,ca-2024-001541-the-king-on-the-application-of-respondent-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbj40n7000h04jwpx41ia5n,ca-2024-001541-the-king-on-the-application-of-respondent-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbrqmhv000j04jp78i2n3gf,ca-2024-001951-ksy-juice-blends-uk-limited-v-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbr021t001104jndbjo02xo,ca-2024-002003-greenfields-iow-limited-v-isle-of-appellant-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbtbxft002t04jic4baeo3l,ca-2024-002325 & ca-2024-002295-modernatx-inc-v-pfizer-limited-others-appellant-skeleton,real,1,1,0,0,0,0.0,0.0
+cmsbsvvmu001x04jittsrlhz0,ca-2024-0023525 & ca-2024-002295-modernatx-inc-v-pfizer-limited-others-respondent-skeleton,real,1,1,0,0,0,0.0,0.0
+cmsbszs77002304ji6ldkbjce,ca-2024-0023525 & ca-2024-002295-modernatx-inc-v-pfizer-limited-others-respondent-skeleton,real,2,2,0,0,0,0.0,0.0
+cmsbt3hfa002904ji8k6b026n,ca-2024-0023525 & ca-2024-002295-modernatx-inc-v-pfizer-limited-others-respondent-skeleton,real,2,2,0,0,0,0.0,0.0
+cmmf22axa000h04jxcpnnecs0,ew-cases-EWCA-Civ-2024-1,real,1,1,0,0,0,0.0,0.0
+cmmcal70d000h04k3e11w997v,ew-cases-EWCA-Civ-2024-1110,real,2,2,0,0,0,0.0,0.0
+cmmxsk5kn000h04ldd570wr09,greenfields--iow--limited-v-isle-of-wight-council---westridge-village-limited,real,1,1,0,0,0,0.0,0.0
+cmmxtzd4o000904jrjc2hdwrx,greenfields--iow--limited-v-isle-of-wight-council---westridge-village-limited,real,2,2,0,0,0,0.0,0.0
+cmomnx9nj000304jkyxxg2b0k,greenfields--iow--limited-v-isle-of-wight-council---westridge-village-limited,real,2,2,0,0,0,0.0,0.0
+cmmsi1xqb000h04jsef3v6skf,karpasitis-v-hertfordshire-county-council,real,2,2,0,0,0,0.0,0.0
+cmmsiews2000304lgc3ooyg67,karpasitis-v-hertfordshire-county-council,real,2,1,0,1,1,0.5,0.5
+cmmxgyd9z000h04kttryogau2,karpasitis-v-hertfordshire-county-council,real,4,4,0,0,0,0.0,0.0
+cmmxktfx8000904johoqmmfkm,karpasitis-v-hertfordshire-county-council,real,2,2,0,0,0,0.0,0.0
+cmmxpdot1000h04i8q3aleh7a,karpasitis-v-hertfordshire-county-council,real,1,1,0,0,0,0.0,0.0
+cmmxi2xkc000t04l8hsscxyvl,ksy-juice-blends-uk-limited-v-citrosuco-gmbh,real,2,2,0,0,0,0.0,0.0
+cmst419ew000k04ladhs06s0r,skeleton-args-ca2015000120-c8bbd9c0f403a8f6,synthetic,2,0,2,0,2,1.0,0.0
+cmst45vlc000h04l7f6nlqawg,skeleton-args-ca2015008373-db13b0c8e36da3c2,synthetic,1,1,0,0,0,0.0,0.0
+cmm0bebet000404jvmcxyqo4x,skeleton-args-ca2016009836-d5eefd60a70a11d6,synthetic,1,1,0,0,0,0.0,0.0
+cmm0ckscr000t04i312fc6edg,skeleton-args-ca2018006090-aa90566cb5f6b5de,synthetic,2,2,0,0,0,0.0,0.0
+cmm0ct5sl001504i3x6g18pvd,skeleton-args-ca2018006090-aa90566cb5f6b5de,synthetic,2,2,0,0,0,0.0,0.0
+cmm920v38000b04ib8ug7hazg,skeleton-args-ca2018006090-aa90566cb5f6b5de,synthetic,2,2,0,0,0,0.0,0.0
+cmm927sxp000304jp8fpwf2ew,skeleton-args-ca2018006090-aa90566cb5f6b5de,synthetic,2,2,0,0,0,0.0,0.0
+cmm93eoww000904l4jttzk880,skeleton-args-ca2019004792-59f1ed0831f20944,synthetic,3,3,0,0,0,0.0,0.0
+cmst4kl1t000h04js7g8j67zy,skeleton-args-ca2019005474-f7265b45a4e3f0ae,synthetic,2,1,1,0,1,0.5,0.0
+cmmmudwct000304kzc6d15a3r,skeleton-args-ca2021006069-a7200646d94c4a22,synthetic,2,2,0,0,0,0.0,0.0
+cmst7uoeu00d804l5ayb3b9q8,skeleton-args-ca2022000651-1294462417e10289,synthetic,4,1,3,0,3,0.75,0.0
+cmlzpblc7000304jv62ixuvp8,skeleton-args-ca2022002088-9a827e5fc9cfa270,synthetic,3,3,0,0,0,0.0,0.0
+cmmc2zaji000h04l23a3cp61p,skeleton-args-ca2022002088-9a827e5fc9cfa270,synthetic,2,2,0,0,0,0.0,0.0
+cmst80ckg000h04i9rasplurj,skeleton-args-ca2022004921-cb64a3102cee5019,synthetic,2,2,0,0,0,0.0,0.0
+cmlzphr57000h04jtqrwbfiyf,skeleton-args-ca2022008247-6c5b4a1058f7a82b,synthetic,2,2,0,0,0,0.0,0.0
+cmlzrzxca000304l2qk1vevzx,skeleton-args-ca2023002207-ce0aafdf6d7e5716,synthetic,2,2,0,0,0,0.0,0.0
+cmmdjqxh3000304kvs37yorn3,skeleton-args-ca2023004634-299a4a730fe1f43a,synthetic,2,2,0,0,0,0.0,0.0
+cmmdkjytd000304jl24cdxqvp,skeleton-args-ca2023004634-299a4a730fe1f43a,synthetic,3,3,0,0,0,0.0,0.0
+cmmls2r93000304jme0bpsul9,skeleton-args-ca2023004634-299a4a730fe1f43a,synthetic,1,1,0,0,0,0.0,0.0
+cmlzy9ss300fz04i80p2yfbg1,skeleton-args-ca2024001234-346b2d683b5c2099,synthetic,3,3,0,0,0,0.0,0.0
+cmm0k3nj8000h04l412ruhfxj,skeleton-args-ca2024001234-346b2d683b5c2099,synthetic,2,2,0,0,0,0.0,0.0
+cmst49zw4001104l7neqlaa0v,skeleton-args-ca2024009268-0b828a88e0027426,synthetic,2,2,0,0,0,0.0,0.0
+cmm3b1g6j000j04jt8w2u9z6w,skeleton-args-ca2025000412-e17d5e10793fe216,synthetic,2,2,0,0,0,0.0,0.0
+cmmafut12000904l4kjskwky4,skeleton-args-ca2025000412-e17d5e10793fe216,synthetic,1,1,0,0,0,0.0,0.0
+cmst4fdgx001l04l7p4wrw7w7,skeleton-args-ca2025001247-4e7222cd1e12236a,synthetic,2,0,0,2,2,1.0,1.0
