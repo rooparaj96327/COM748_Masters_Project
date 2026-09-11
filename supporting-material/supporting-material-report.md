@@ -4,7 +4,7 @@
 **Student:** Roopa Raj (B00871016)  
 **Supervisor:** Professor Jun Liu  
 **Module:** COM748 Masters Research Project, Ulster University  
-**Date:** September 2026
+**Date:** 14 September 2026
 
 ---
 
@@ -145,7 +145,7 @@ The corpus registry coverage was limited. Of 33 distinct case-law authorities, o
 With more time, three changes would strengthen the project:
 
 1. **Run the controlled experiments.** Varying retrieval depth (top-5 vs top-20 chunks) and model choice (GPT-4o vs GPT-4o-mini) would isolate whether the failures are retrieval-driven or generation-driven.
-2. **Compute inter-rater agreement before adjudication.** Cohen's Kappa between R1 and R2 should have been computed and reported as a measure of annotation reliability, independent of the verifier validation.
+2. **Inter-rater agreement before adjudication.** Cohen's Kappa between R1 and R2 was computed and reported in the paper: holding agreement 84.0% (kappa = 0.74, substantial), grounding agreement 40.8% (kappa = 0.054, slight). Because R2 was AI-assisted, these values are reported descriptively rather than as independent inter-human reliability.
 3. **Use a larger and more diverse sample.** The 59-judgment dataset is a convenience sample from a single system configuration. A larger sample, including judgments from different legal domains, would improve generalisability.
 
 ### 4.5 Lessons Learned

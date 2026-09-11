@@ -26,9 +26,9 @@ Data frozen: 2026-08-31. No controlled experiments (retrieval depth, prompt desi
 ## Project Structure
 
 ```
-COM748_Hercules_Audit/
+COM748_Masters_Project/
   paper/                          Research paper (IEEE LaTeX)
-    main.tex                      Complete paper source
+    main_paper.tex                Complete paper source
   src/                            Analysis pipeline
     extract_judgment_citations.py   Step 1: citation extraction
     build_retrieval_analysis.py     Step 2: draft-to-search linkage
@@ -64,8 +64,6 @@ COM748_Hercules_Audit/
     data-dictionary.md              Column-level data documentation
     reproduction-guide.md           Step-by-step reproduction instructions
     figures-index.md                Index of all report figures
-  documentation/                  Project documentation
-    ethics/                         Ethics approval documents
   baseline_manifest.txt           Freeze summary and methodological notes
   project_inventory.csv           File-level inventory with SHA-256 hashes
 ```
@@ -73,7 +71,7 @@ COM748_Hercules_Audit/
 ## Key Results
 
 - **0 fabricated cases** out of 33 distinct case-law authorities verified against BAILII
-- **53.6%** of case-law citations absent from the system's corpus
+- **53.6%** of case-law citations could not be traced to the frozen structured registry or linked retrieval records
 - **50.0%** of attributed holdings partially or fully inaccurate (human annotation)
 - **85.7%** of reasoning steps ungrounded in retrieved passages
 - **Citation verifier validated:** Cohen's Kappa = 0.80 (substantial agreement)

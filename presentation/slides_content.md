@@ -117,14 +117,13 @@ September 2026
 
 **But 53.6% of citations had no provenance trail:**
 
-| Retrieval Status | Count | % |
+| Retrieval Status | Count | % (of 110 case-law) |
 |---|---|---|
-| Not found in corpus registry | 59 | 51.3% |
-| In corpus, not retrieved | 34 | 29.6% |
-| Retrieved and cited | 7 | 6.1% |
-| Retrieval mismatch | 9 | 7.8% |
+| Not found in corpus registry | 59 | 53.6% |
+| In corpus, not retrieved | 34 | 30.9% |
+| Retrieved and cited | 7 | 6.4% |
+| Retrieval mismatch | 9 | 8.2% |
 | Case-name conflict | 1 | 0.9% |
-| Non-case reference | 5 | 4.3% |
 
 **Citation correctness (35 authority groups):**
 - 23 correct (65.7%)
@@ -225,13 +224,13 @@ September 2026
 **Limitations:**
 - 59-judgment convenience sample from a single system configuration
 - Phase 4 controlled experiments not conducted
-- Inter-rater agreement (R1 vs R2) not separately reported
+- R2 pass was AI-assisted, not an independent human annotator
 
 **Future work:**
 1. Controlled experiments varying retrieval depth, prompt design, and model choice
 2. Embedding-based or LLM-as-judge approaches for automated holding verification
 3. Larger, multi-domain sample for generalisability
-4. Inter-rater reliability reporting before adjudication
+4. Independent second human annotator for grounding labels
 
 ---
 

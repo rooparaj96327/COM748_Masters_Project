@@ -44,13 +44,13 @@ Phase 4 was dropped due to time constraints and limited API access. The scope wa
 - Verified all 35 distinct authority groups by hand against BAILII.
 - Found zero fabricated cases. Every case the system cited was real.
 - Found 8 incomplete and 4 incorrect citations out of 35.
-- Classified all 115 occurrences by retrieval status:
-  - 59 not in corpus (51.3%)
-  - 34 in corpus but not retrieved (29.6%)
-  - 7 retrieved and cited (6.1%)
-  - 9 mismatches (7.8%)
+- Classified all 110 case-law occurrences by retrieval status:
+  - 59 not found in frozen registry (53.6%)
+  - 34 in registry but not retrieved (30.9%)
+  - 7 retrieved and cited (6.4%)
+  - 9 mismatches (8.2%)
   - 1 conflict (0.9%)
-  - 5 non-case references (4.3%)
+  - The remaining 5 non-case references were tracked separately.
 
 ### Human Annotation (Phase 3)
 
