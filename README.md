@@ -27,45 +27,49 @@ Data frozen: 2026-08-31. No controlled experiments (retrieval depth, prompt desi
 
 ```
 COM748_Masters_Project/
-  paper/                          Research paper (IEEE LaTeX)
-    main_paper.tex                Complete paper source
-  src/                            Analysis pipeline
-    extract_judgment_citations.py   Step 1: citation extraction
-    build_retrieval_analysis.py     Step 2: draft-to-search linkage
-    verify_citation_retrieval.py    Step 3: citation-retrieval verification
-    build_unique_citation_review.py Step 4: authority group deduplication
-    build_citation_summary.py       Step 5: summary metrics
-    prefill_holding_grounding.py    Step 6: LLM-assisted annotation prefill
-    export-corpus-registry.ts       Qdrant corpus registry export
-    hercules_verifier/              Automated screening verifier
-  analysis/                       Figure and statistics generation
-    build_results_figures.py        Figures 1-3 (citation analysis)
-    build_normalized_citation_figure.py  Figure 2b (normalized)
-    compare_input_groups.py         Real vs synthetic comparison
-    build_holding_grounding_figures.py   Figures 4-7 (annotations)
-  data/
-    raw/                          Frozen source data
-      database-exports/             Hercules database exports
-      system-exports/qdrant/        Qdrant corpus registry
-      input-documents/              Skeleton argument PDFs and XMLs
-    processed/                    Pipeline outputs (CSVs, JSONs)
-  annotations/                    Human annotation workbook and codebook
-    holding_grounding_annotation.xlsx
-    holding_grounding_codebook.md
-  outputs/
-    baseline/                     Audit workbooks
-    experiments/
-      citation-analysis/            Figures 1-3 + metrics CSVs
-      annotation-analysis/          Figures 4-7 + annotation metrics
-    verifier_predictions_v1.csv   Verifier predictions + human labels
-    verifier_metrics_v1.json      Validation metrics (Cohen's Kappa)
-  supporting-material/            Submission supporting materials
-    README.md                       Package overview
-    data-dictionary.md              Column-level data documentation
-    reproduction-guide.md           Step-by-step reproduction instructions
-    figures-index.md                Index of all report figures
-  baseline_manifest.txt           Freeze summary and methodological notes
-  project_inventory.csv           File-level inventory with SHA-256 hashes
+├── paper/                              Research paper (IEEE LaTeX)
+│   └── main_paper.tex                  Complete paper source
+├── src/                                Analysis pipeline
+│   ├── extract_judgment_citations.py   Step 1: citation extraction
+│   ├── build_retrieval_analysis.py     Step 2: draft-to-search linkage
+│   ├── verify_citation_retrieval.py    Step 3: citation-retrieval verification
+│   ├── build_unique_citation_review.py Step 4: authority group deduplication
+│   ├── build_citation_summary.py       Step 5: summary metrics
+│   ├── prefill_holding_grounding.py    Step 6: LLM-assisted annotation prefill
+│   ├── export-corpus-registry.ts       Qdrant corpus registry export
+│   └── hercules_verifier/              Automated screening verifier
+├── analysis/                           Figure and statistics generation
+│   ├── build_results_figures.py        Figures 1-3 (citation analysis)
+│   ├── build_normalized_citation_figure.py  Figure 2b (normalized)
+│   ├── compare_input_groups.py         Real vs synthetic comparison
+│   └── build_holding_grounding_figures.py   Figures 4-7 (annotations)
+├── data/
+│   ├── raw/                            Frozen source data
+│   │   ├── database-exports/           Hercules database exports
+│   │   ├── system-exports/qdrant/      Qdrant corpus registry
+│   │   └── input-documents/            Skeleton argument PDFs and XMLs
+│   ├── frozen/                         Frozen registry snapshots
+│   └── processed/                      Pipeline outputs (CSVs, JSONs)
+├── annotations/                        Human annotation workbook and codebook
+│   ├── holding_grounding_annotation.xlsx
+│   └── holding_grounding_codebook.md
+├── outputs/
+│   ├── baseline/                       Audit workbooks
+│   ├── experiments/
+│   │   ├── citation-analysis/          Figures 1-3 + metrics CSVs
+│   │   └── annotation-analysis/        Figures 4-7 + annotation metrics
+│   ├── verifier_predictions_v1.csv     Verifier predictions + human labels
+│   └── verifier_metrics_v1.json        Validation metrics (Cohen's Kappa)
+├── supporting-material/                Submission supporting materials
+│   ├── README.md                       Package overview
+│   ├── data-dictionary.md              Column-level data documentation
+│   ├── reproduction-guide.md           Step-by-step reproduction instructions
+│   └── figures-index.md                Index of all report figures
+├── presentation/                       Presentation materials
+│   └── slides_content.md              Slide content
+├── baseline_manifest.txt               Freeze summary and methodological notes
+├── project_inventory.csv               File-level inventory with SHA-256 hashes
+└── README.md
 ```
 
 ## Key Results
