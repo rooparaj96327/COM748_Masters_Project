@@ -97,7 +97,7 @@ The original proposal included controlled experiments (Phase 4) varying retrieva
 
 ### 2.4 Data Management and Reproducibility
 
-All source data was frozen on 31 August 2026, with SHA-256 checksums recorded in `project_inventory.csv`. A baseline manifest documents the frozen scope, methodological boundaries, and the rationale for the scope revision. The full analysis pipeline is reproducible from the frozen data using 11 scripts executed in sequence, as documented in `reproduction-guide.md`. Manual intervention points (BAILII verification and human annotation) are clearly identified in the reproduction instructions.
+All source data was frozen on 31 August 2026, with SHA-256 checksums recorded in `project_inventory.csv`. A baseline manifest documents the frozen scope, methodological boundaries, and the rationale for the scope revision. The full analysis pipeline is reproducible from the frozen data using 11 scripts executed in sequence, as documented in `reproduction-guide.md`. Manual intervention points (BAILII verification and human annotation) are clearly identified in the reproduction instructions. The complete project repository, including all source code, data, annotations, and documentation, is available at: https://github.com/rooparaj96327/COM748_Masters_Project
 
 ---
 
