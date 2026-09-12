@@ -1,9 +1,10 @@
 # Proposal and Completed Work
 
-**Project:** Auditing AI-Generated Draft Judgments: Citation Provenance, Holding Accuracy, and Reasoning Grounding
-**Student:** Roopa Raj (B00871016)
-**Supervisor:** Professor Jun Liu
-**Module:** COM748 Masters Research Project, Ulster University
+**Project:** Auditing AI-Generated Draft Judgments: Citation Provenance, Holding Accuracy, and Reasoning Grounding  
+**Student:** Roopa Raj (B00871016)  
+**Supervisor:** Professor Jun Liu  
+**Module:** COM748 Masters Research Project, Ulster University  
+**Date:** 14 September 2026
 
 ---
 

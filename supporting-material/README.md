@@ -1,11 +1,10 @@
 # Submission Package Overview
 
-**Project title:** Auditing AI-Generated Draft Judgments: Citation Provenance, Holding Accuracy, and Reasoning Grounding
-
+**Project:** Auditing AI-Generated Draft Judgments: Citation Provenance, Holding Accuracy, and Reasoning Grounding  
 **Student:** Roopa Raj (B00871016)  
 **Supervisor:** Professor Jun Liu  
 **Module:** COM748 Masters Research Project, Ulster University  
-**Submission date:** 14 September 2026
+**Date:** 14 September 2026
 
 ---
 
