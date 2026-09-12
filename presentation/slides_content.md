@@ -194,7 +194,7 @@ September 2026
 
 ## SLIDE 11: Discussion - The Key Finding
 
-**The system does not invent cases. That makes it more dangerous, not less.**
+**No fabricated case was confirmed in this sample. That makes it more dangerous, not less.**
 
 - Zero fabrications out of 33 case-law authorities
 - A citation existence check would give it a clean bill of health
@@ -216,7 +216,7 @@ September 2026
 ## SLIDE 12: Conclusions and Future Work
 
 **Conclusions:**
-- Hercules cites only real cases but misrepresents their holdings in 50% of attributions
+- No fabricated case was confirmed in this sample, yet Hercules misrepresents holdings in 50% of attributions
 - 85.7% of reasoning is not grounded in retrieved passages
 - Automated verification works for citation existence (kappa = 0.80) but fails for semantic accuracy (kappa = 0.04)
 - Citation existence alone is an inadequate measure of legal-AI reliability

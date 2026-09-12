@@ -43,7 +43,7 @@ Phase 4 was dropped due to time constraints and limited API access. The scope wa
 ### Citation Verification (Phase 2)
 
 - Verified all 35 distinct authority groups by hand against BAILII.
-- Found zero fabricated cases. Every case the system cited was real.
+- Found zero fabricated cases. No case in the sample was confirmed as fabricated.
 - Found 8 incomplete and 4 incorrect citations out of 35.
 - Classified all 110 case-law occurrences by retrieval status:
   - 59 not found in frozen registry (53.6%)
