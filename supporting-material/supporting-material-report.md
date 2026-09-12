@@ -14,38 +14,49 @@ The research paper surveys hallucination, legal AI evaluation, and RAG faithfuln
 
 ### 1.1 Hallucination Taxonomies
 
-Huang et al. (2023) provide a comprehensive survey of hallucination in large language models, distinguishing between factuality hallucination (generating content contradicting established facts) and faithfulness hallucination (deviating from the provided context or instructions). This taxonomy directly informed the three-layer verifier design: Layer 1 targets factuality (do cited cases exist?), while Layers 2 and 3 target faithfulness (does the output align with source material?). Zhang et al. (2023) further categorise hallucination by granularity (sentence-level, passage-level, and document-level) and find that longer outputs exhibit compounding error rates. This observation is relevant to Hercules, which generates multi-page draft judgments where errors in early citations can propagate through subsequent reasoning.
+Huang et al. [1] provide a comprehensive survey of hallucination in large language models, distinguishing between factuality hallucination (generating content contradicting established facts) and faithfulness hallucination (deviating from the provided context or instructions). This taxonomy directly informed the three-layer verifier design: Layer 1 targets factuality (do cited cases exist?), while Layers 2 and 3 target faithfulness (does the output align with source material?). Zhang et al. [2] further categorise hallucination by granularity (sentence-level, passage-level, and document-level) and find that longer outputs exhibit compounding error rates. This observation is relevant to Hercules, which generates multi-page draft judgments where errors in early citations can propagate through subsequent reasoning.
 
 ### 1.2 Legal AI and Judgment Prediction
 
-Legal judgment prediction has been studied extensively in computational law. Zhong et al. (2020) developed LEGAL-BERT for Chinese legal text, while Chalkidis et al. (2020) benchmarked transformer models on European Court of Human Rights case prediction. These systems predict outcomes rather than generating full judgments, making their evaluation simpler: a predicted outcome is either correct or incorrect. Hercules occupies a fundamentally different position: it generates extended prose that must be evaluated at multiple levels of granularity, from citation accuracy to reasoning coherence.
+Legal judgment prediction has been studied extensively in computational law. Zhong et al. [3] developed LEGAL-BERT for Chinese legal text, while Chalkidis et al. [4] benchmarked transformer models on European Court of Human Rights case prediction. These systems predict outcomes rather than generating full judgments, making their evaluation simpler: a predicted outcome is either correct or incorrect. Hercules occupies a fundamentally different position: it generates extended prose that must be evaluated at multiple levels of granularity, from citation accuracy to reasoning coherence.
 
-Dahl et al. (2024) evaluated GPT-4 on the Uniform Bar Examination and found it performed above the passing threshold, prompting interest in deploying LLMs for legal tasks. However, passing a multiple-choice examination does not establish reliability in generative tasks where the system must construct, not select, legal reasoning. Cui et al. (2023) developed ChatLaw, a Chinese legal AI system, and found that domain-specific fine-tuning reduced but did not eliminate hallucination in legal contexts.
+Dahl et al. [5] evaluated GPT-4 on the Uniform Bar Examination and found it performed above the passing threshold, prompting interest in deploying LLMs for legal tasks. However, passing a multiple-choice examination does not establish reliability in generative tasks where the system must construct, not select, legal reasoning. Cui et al. [6] developed ChatLaw, a Chinese legal AI system, and found that domain-specific fine-tuning reduced but did not eliminate hallucination in legal contexts.
 
 ### 1.3 RAG Evaluation and Attribution
 
-Gao et al. (2024) survey the RAG landscape and identify a gap between retrieval quality and generation faithfulness: a system can retrieve relevant documents yet still produce unfaithful output. This gap is precisely what the Hercules audit quantifies: several misdescribed authorities were present in the corpus, confirming that retrieval success does not guarantee generation accuracy.
+Gao et al. [7] survey the RAG landscape and identify a gap between retrieval quality and generation faithfulness: a system can retrieve relevant documents yet still produce unfaithful output. This gap is precisely what the Hercules audit quantifies: several misdescribed authorities were present in the corpus, confirming that retrieval success does not guarantee generation accuracy.
 
-Bohnet et al. (2023) introduce Attributed Question Answering, where every generated claim must be traceable to a specific source passage. Rashkin et al. (2023) propose the Attributable to Identified Sources (AIS) framework, which evaluates whether each generated statement is supported by cited evidence. The three-layer verifier in this project implements a domain-specific version of AIS: Layer 1 checks source identification, Layer 2 checks claim accuracy, and Layer 3 checks evidential support. Min et al. (2023) further demonstrate that automatic faithfulness metrics correlate poorly with human judgments in complex domains, consistent with the finding that automated holding-accuracy verification achieved near-zero agreement with expert labels.
+Bohnet et al. [8] introduce Attributed Question Answering, where every generated claim must be traceable to a specific source passage. Rashkin et al. [9] propose the Attributable to Identified Sources (AIS) framework, which evaluates whether each generated statement is supported by cited evidence. The three-layer verifier in this project implements a domain-specific version of AIS: Layer 1 checks source identification, Layer 2 checks claim accuracy, and Layer 3 checks evidential support. Min et al. [10] further demonstrate that automatic faithfulness metrics correlate poorly with human judgments in complex domains, consistent with the finding that automated holding-accuracy verification achieved near-zero agreement with expert labels.
 
 ### 1.4 AI Regulation and Judicial Use
 
-The EU AI Act (2024) classifies AI systems used in the administration of justice as high-risk, requiring conformity assessments, human oversight, and transparency obligations. The UK Judicial Office published guidance in December 2023 permitting judges to use AI tools for summarisation but warning against reliance on AI-generated legal research without independent verification. The UK AI Security Institute, which funded the Hercules project, has emphasised the need for structured evaluation of AI systems before deployment in public-sector contexts. These regulatory and institutional developments provide direct policy relevance for the audit methodology developed in this project.
+The EU AI Act [11] classifies AI systems used in the administration of justice as high-risk, requiring conformity assessments, human oversight, and transparency obligations. The UK Judicial Office [12] published guidance in December 2023 permitting judges to use AI tools for summarisation but warning against reliance on AI-generated legal research without independent verification. The UK AI Security Institute, which funded the Hercules project, has emphasised the need for structured evaluation of AI systems before deployment in public-sector contexts. These regulatory and institutional developments provide direct policy relevance for the audit methodology developed in this project.
 
 ### References (Supporting Material)
 
-- Bohnet, B. et al. (2023). Attributed Question Answering. *EMNLP 2023*.
-- Chalkidis, I. et al. (2020). LEGAL-BERT. *Findings of EMNLP 2020*.
-- Cui, J. et al. (2023). ChatLaw: Open-Source Legal Large Language Model. *arXiv:2306.16092*.
-- Dahl, M. et al. (2024). Large Legal Fictions: Profiling Legal Hallucinations in LLMs. *Journal of Legal Analysis*, 16(1).
-- European Parliament (2024). Regulation (EU) 2024/1689 (AI Act).
-- Gao, Y. et al. (2024). Retrieval-Augmented Generation for Large Language Models: A Survey. *arXiv:2312.10997*.
-- Huang, L. et al. (2023). A Survey on Hallucination in LLMs. *arXiv:2311.05232*.
-- Min, S. et al. (2023). FActScore: Fine-grained Atomic Evaluation of Factual Precision. *EMNLP 2023*.
-- Rashkin, H. et al. (2023). Measuring Attribution in Natural Language Generation Models. *Computational Linguistics*, 49(4).
-- UK Judicial Office (2023). AI: Judicial Guidance. December 2023.
-- Zhang, Y. et al. (2023). Siren's Song in the AI Ocean: A Survey on Hallucination in LLMs. *arXiv:2309.01219*.
-- Zhong, H. et al. (2020). How Does NLP Benefit Legal System? *ACL 2020*.
+[1] L. Huang et al., "A survey on hallucination in large language models," arXiv:2311.05232, 2023.
+
+[2] Y. Zhang et al., "Siren's song in the AI ocean: A survey on hallucination in large language models," arXiv:2309.01219, 2023.
+
+[3] H. Zhong et al., "How does NLP benefit legal system: A summary of laws," in *Proc. ACL*, 2020.
+
+[4] I. Chalkidis et al., "LEGAL-BERT: The muppets straight out of law school," in *Findings of EMNLP*, 2020.
+
+[5] M. Dahl et al., "Large legal fictions: Profiling legal hallucinations in large language models," *J. Legal Analysis*, vol. 16, no. 1, 2024.
+
+[6] J. Cui et al., "ChatLaw: Open-source legal large language model," arXiv:2306.16092, 2023.
+
+[7] Y. Gao et al., "Retrieval-augmented generation for large language models: A survey," arXiv:2312.10997, 2024.
+
+[8] B. Bohnet et al., "Attributed question answering," in *Proc. EMNLP*, 2023.
+
+[9] H. Rashkin et al., "Measuring attribution in natural language generation models," *Computational Linguistics*, vol. 49, no. 4, 2023.
+
+[10] S. Min et al., "FActScore: Fine-grained atomic evaluation of factual precision in long form text generation," in *Proc. EMNLP*, 2023.
+
+[11] European Parliament, "Regulation (EU) 2024/1689 (Artificial Intelligence Act)," 2024.
+
+[12] UK Judicial Office, "AI: Judicial guidance," Dec. 2023.
 
 ---
 
@@ -153,7 +164,3 @@ With more time, three changes would strengthen the project:
 The most important lesson was that surface-level metrics are misleading in high-stakes domains. A system that cites only real cases and achieves plausible-sounding reasoning can appear reliable by conventional measures while being substantively wrong in half its attributions. This reinforces the need for multi-layered evaluation that goes beyond existence checks to assess semantic accuracy.
 
 A second lesson was the value of freezing the dataset early. By committing to a fixed corpus on 31 August 2026 and recording SHA-256 checksums, the analysis became fully reproducible and the temptation to re-run the system for better results was removed.
-
----
-
-*Word count: approximately 2,400 words*
