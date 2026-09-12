@@ -55,7 +55,7 @@ Phase 4 was dropped due to time constraints and limited API access. The scope wa
 ### Human Annotation (Phase 3)
 
 - Developed a 223-line annotation codebook defining labels, evidence sources, and procedures.
-- Two independent reviewers (R1 and R2) annotated 98 citation occurrences from 50 judgments.
+- Two reviewers (R1: human, R2: AI-assisted via GPT-4o-mini with human correction) annotated 98 citation occurrences from 50 judgments.
 - Each occurrence was assessed on two dimensions:
   - Holding accuracy: Is the legal principle attributed to the case correct?
   - Reasoning grounding: Is the reasoning supported by the retrieved passages?

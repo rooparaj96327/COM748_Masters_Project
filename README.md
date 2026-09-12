@@ -17,7 +17,7 @@ This project carries out a structured empirical audit of Hercules, a proof-of-co
 | Draft judgments analysed | 59 |
 | Citation occurrences | 115 (110 case law, 5 statutory/rule) |
 | Distinct authority groups | 35 (33 case law, 2 non-case) |
-| Validation sample | 98 citation occurrences |
+| Validation sample | 98 citation occurrences from 50 judgments |
 | Real-input judgments | 34 |
 | Synthetic-input judgments | 25 |
 
@@ -82,7 +82,7 @@ COM748_Masters_Project/
 
 ## Reproduction
 
-See `supporting-material/reproduction-guide.md` for full instructions. Requires Python 3.14+ with openpyxl, matplotlib, and numpy.
+See `supporting-material/reproduction-guide.md` for full instructions. Requires Python 3.10+ with openpyxl, matplotlib, numpy, scipy, and requests.
 
 ## Methodological Notes
 

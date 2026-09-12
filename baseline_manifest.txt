@@ -4,7 +4,7 @@ COM748 Hercules Audit - Frozen Baseline Manifest
 Freeze date: 2026-08-31
 Freeze time: 18:26:34 Europe/London
 Workspace:
-F:\1_Ulster_Uni\MSc_AI\7_COM748_Masters_Project\COM748_Hercules_Audit
+F:\1_Ulster_Uni\MSc_AI\7_COM748_Masters_Project\COM748_Masters_Project
 
 Project:
 Auditing AI-Generated Draft Judgments: Citation Provenance, Holding Accuracy, and Reasoning Grounding

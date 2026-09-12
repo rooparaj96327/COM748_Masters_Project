@@ -155,7 +155,7 @@ def figure_grounding_gap(rows):
                     f"{h:.0f}%", ha="center", va="bottom", fontsize=12, fontweight="bold")
 
     ax.set_ylabel("Percentage of items")
-    ax.set_title("The grounding gap: only about half of output is grounded", pad=15)
+    ax.set_title("Corpus absence and reasoning grounding defect rates by input type", pad=15)
     ax.set_xticks(x)
     ax.set_xticklabels(categories)
     ax.set_ylim(0, 100)

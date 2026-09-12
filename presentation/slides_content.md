@@ -99,7 +99,7 @@ September 2026
 
 **Layer 2: Holding Accuracy**
 - When the system cites a real case, does it describe the holding correctly?
-- Dual-reviewer human annotation (R1, R2) with adjudication
+- Dual-reviewer annotation (R1 human, R2 AI-assisted) with adjudication
 - Labels: yes, partial, no, n/a
 
 **Layer 3: Reasoning Grounding**
@@ -275,7 +275,7 @@ Input: Skeleton Arguments (PDF/XML)
 | Draft judgments | 59 |
 | Citation occurrences | 115 |
 | Validation sample | 98 occurrences from 50 judgments |
-| Real-input judgments | 34 (11 real UK cases x 2 skeleton arguments) |
+| Real-input judgments | 34 |
 | Synthetic-input judgments | 25 |
 | Corpus registry | 3,654 cases, 29,232 chunks |
 | Structured records | 2,541 in Neon/PostgreSQL |

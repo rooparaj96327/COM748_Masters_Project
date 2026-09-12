@@ -141,7 +141,7 @@ This was the right decision. The audit of the existing system yielded substantiv
 
 The three-layer verification framework proved effective as an organising structure. By separating citation existence, holding accuracy, and reasoning grounding, each failure mode could be measured independently and the results converged on a consistent picture. The framework is also generalisable: it could be applied to any RAG system that produces citation-bearing text.
 
-The dual-reviewer annotation protocol with adjudication produced reliable ground-truth labels. Having two independent reviewers exposed genuine disagreements, particularly on the boundary between "partial" and "no" for reasoning grounding, that a single reviewer would have resolved silently. The adjudication step produced defensible final labels while preserving the original disagreements for analysis.
+The dual-reviewer annotation protocol with adjudication produced reliable ground-truth labels. Having two annotation passes (R1 human, R2 AI-assisted with human correction) exposed genuine disagreements, particularly on the boundary between "partial" and "no" for reasoning grounding, that a single reviewer would have resolved silently. The adjudication step produced defensible final labels while preserving the original disagreements for analysis.
 
 The automated verifier's honest abstention (returning `unclear` for holding accuracy without source text) turned out to be one of the project's strongest findings. It demonstrated, concretely, that certain dimensions of legal-AI evaluation resist automation.
 
