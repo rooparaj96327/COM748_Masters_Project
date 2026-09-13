@@ -14,7 +14,7 @@ The research paper surveys hallucination, legal AI evaluation, and RAG faithfuln
 
 ### 1.1 Hallucination Taxonomies
 
-Huang et al. [1] provide a comprehensive survey of hallucination in large language models, distinguishing between factuality hallucination (generating content contradicting established facts) and faithfulness hallucination (deviating from the provided context or instructions). This taxonomy directly informed the three-layer verifier design: Layer 1 targets factuality (do cited cases exist?), while Layers 2 and 3 target faithfulness (does the output align with source material?). Zhang et al. [2] further categorise hallucination by granularity (sentence-level, passage-level, and document-level) and find that longer outputs exhibit compounding error rates. This observation is relevant to Hercules, which generates multi-page draft judgments where errors in early citations can propagate through subsequent reasoning.
+Huang et al. [1] provide a comprehensive survey of hallucination in large language models, distinguishing between factuality hallucination (generating content contradicting established facts) and faithfulness hallucination (deviating from the provided context or instructions). This taxonomy directly informed the three-layer verifier design: Layer 1 targets provenance (can each citation be traced to the system's corpus registry and retrieval records?), while Layers 2 and 3 target faithfulness (does the output align with source material?). Zhang et al. [2] further categorise hallucination by granularity (sentence-level, passage-level, and document-level) and find that longer outputs exhibit compounding error rates. This observation is relevant to Hercules, which generates multi-page draft judgments where errors in early citations can propagate through subsequent reasoning.
 
 ### 1.2 Legal AI and Judgment Prediction
 
@@ -141,7 +141,7 @@ This was the right decision. The audit of the existing system yielded substantiv
 
 The three-layer verification framework proved effective as an organising structure. By separating citation existence, holding accuracy, and reasoning grounding, each failure mode could be measured independently and the results converged on a consistent picture. The framework is also generalisable: it could be applied to any RAG system that produces citation-bearing text.
 
-The dual-reviewer annotation protocol with adjudication produced reliable ground-truth labels. Having two annotation passes (R1 human, R2 AI-assisted with human correction) exposed genuine disagreements, particularly on the boundary between "partial" and "no" for reasoning grounding, that a single reviewer would have resolved silently. The adjudication step produced defensible final labels while preserving the original disagreements for analysis.
+The two-pass annotation protocol with adjudication produced documented adjudicated reference labels. Having two annotation passes (R1 human, R2 AI-assisted with human correction) exposed genuine disagreements, particularly on the boundary between "partial" and "no" for reasoning grounding, that a single reviewer would have resolved silently. The adjudication step produced defensible final labels while preserving the original disagreements for analysis.
 
 The automated verifier's honest abstention (returning `unclear` for holding accuracy without source text) turned out to be one of the project's strongest findings. It demonstrated, concretely, that certain dimensions of legal-AI evaluation resist automation.
 
@@ -149,14 +149,14 @@ The automated verifier's honest abstention (returning `unclear` for holding accu
 
 The automated holding-accuracy verifier achieved near-zero agreement with human labels ($\kappa = 0.04$ without source text; $\kappa = 0.002$ with partial source text in v3). TF-IDF cosine similarity is fundamentally unsuitable for assessing whether a legal principle has been correctly attributed, because legal interpretation depends on semantic nuance that bag-of-words methods cannot capture. A future approach might use embedding-based similarity or an LLM-as-judge framework, though both introduce their own reliability concerns.
 
-The corpus registry coverage was limited. Of 33 distinct case-law authorities, only 7 were both present in the corpus and retrieved for the relevant judgment. This constrained the holding-accuracy analysis: for most citations, there was no authoritative text within the system to compare against, making the evaluation dependent on external BAILII verification.
+The corpus registry coverage was limited. Of 110 case-law citation occurrences, only 7 were both present in the corpus and retrieved for the relevant judgment. This constrained the holding-accuracy analysis: for most citations, there was no authoritative text within the system to compare against, making the evaluation dependent on external BAILII verification.
 
 ### 4.4 What I Would Do Differently
 
 With more time, three changes would strengthen the project:
 
 1. **Run the controlled experiments.** Varying retrieval depth (top-5 vs top-20 chunks) and model choice (GPT-4o vs GPT-4o-mini) would isolate whether the failures are retrieval-driven or generation-driven.
-2. **Recruit an independent human second reviewer.** R2 was AI-assisted (GPT-4o-mini prefill with human correction), so the R1-vs-R2 kappa values are descriptive rather than true inter-human reliability. An independent legal reviewer (R3) was approached but feedback was not received within the project timeline. A fully independent second annotator would have strengthened the reliability claim for the ground-truth labels.
+2. **Recruit an independent human second reviewer.** R2 was AI-assisted (GPT-4o-mini prefill with human correction), so the R1-vs-R2 kappa values are descriptive rather than true inter-human reliability. An independent legal reviewer (R3) was approached but feedback was not received within the project timeline. A fully independent second annotator would have strengthened the reliability claim for the reference labels.
 3. **Use a larger and more diverse sample.** The 59-judgment dataset is a convenience sample from a single system configuration. A larger sample, including judgments from different legal domains, would improve generalisability.
 
 ### 4.5 Lessons Learned

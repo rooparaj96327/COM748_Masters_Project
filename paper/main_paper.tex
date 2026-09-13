@@ -37,7 +37,7 @@ The integrity of judicial reasoning depends on the accuracy of the authorities c
 
 Hercules is a proof-of-concept legal-AI system developed at Ulster University's Centre for Legal Technology, funded by the UK AI Security Institute, that generates draft judgments for the Court of Appeal (Civil Division) using retrieval-augmented generation (RAG)~\cite{hercules}. Before this study, the available Hercules outputs had not been subjected to a structured audit of citation provenance, holding accuracy, and reasoning grounding. This paper asks whether the authorities cited in those draft judgments can be traced, whether they are represented accurately, and whether the reasoning based on them is supported by retrieved evidence. These three questions target distinct failure modes: a citation can be traceable yet misdescribed, and a correctly described authority can still be attached to reasoning that the retrieved evidence does not support. Because Hercules generates full draft judgments rather than summaries or short answers, it provides a useful test case for evaluating RAG faithfulness in extended legal outputs.
 
-Existing evaluations have focused on US case law and short-form question answering~\cite{magesh2024}; no comparable study has examined a UK system producing full draft judgments. The contributions of this paper are:
+Existing evaluations have focused on US case law and short-form question answering~\cite{magesh2024}; to our knowledge, no comparable study has examined a UK system producing full draft judgments. The contributions of this paper are:
 
 \begin{itemize}
 \item A three-layer audit framework covering corpus and retrieval provenance, holding accuracy, and reasoning grounding.
