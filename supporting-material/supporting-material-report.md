@@ -18,19 +18,19 @@ Huang et al. [1] provide a comprehensive survey of hallucination in large langua
 
 ### 1.2 Legal AI and Judgment Prediction
 
-Legal judgment prediction has been studied extensively in computational law. Zhong et al. [3] developed LEGAL-BERT for Chinese legal text, while Chalkidis et al. [4] benchmarked transformer models on European Court of Human Rights case prediction. These systems predict outcomes rather than generating full judgments, making their evaluation simpler: a predicted outcome is either correct or incorrect. Hercules occupies a fundamentally different position: it generates extended prose that must be evaluated at multiple levels of granularity, from citation accuracy to reasoning coherence.
+Legal judgment prediction has been studied extensively in computational law. Zhong et al. [3] surveyed NLP applications across legal tasks including judgment prediction and case matching, while Chalkidis et al. [4] developed LEGAL-BERT, a family of BERT models pre-trained on legal corpora, and benchmarked them on European Court of Human Rights case prediction. These systems predict outcomes rather than generating full judgments, making their evaluation simpler: a predicted outcome is either correct or incorrect. Hercules occupies a fundamentally different position: it generates extended prose that must be evaluated at multiple levels of granularity, from citation accuracy to reasoning coherence.
 
-Dahl et al. [5] evaluated GPT-4 on the Uniform Bar Examination and found it performed above the passing threshold, prompting interest in deploying LLMs for legal tasks. However, passing a multiple-choice examination does not establish reliability in generative tasks where the system must construct, not select, legal reasoning. Cui et al. [6] developed ChatLaw, a Chinese legal AI system, and found that domain-specific fine-tuning reduced but did not eliminate hallucination in legal contexts.
+Dahl et al. [5] profiled legal hallucinations across leading LLMs and found legal-hallucination rates exceeding 50% for GPT-4, demonstrating that hallucination remains a systemic concern even in state-of-the-art models applied to legal questions. Cui et al. [6] developed ChatLaw, a Chinese legal AI system, and found that domain-specific fine-tuning reduced but did not eliminate hallucination in legal contexts.
 
 ### 1.3 RAG Evaluation and Attribution
 
 Gao et al. [7] survey the RAG landscape and identify a gap between retrieval quality and generation faithfulness: a system can retrieve relevant documents yet still produce unfaithful output. This gap is precisely what the Hercules audit quantifies: several misdescribed authorities were present in the corpus, confirming that retrieval success does not guarantee generation accuracy.
 
-Bohnet et al. [8] introduce Attributed Question Answering, where every generated claim must be traceable to a specific source passage. Rashkin et al. [9] propose the Attributable to Identified Sources (AIS) framework, which evaluates whether each generated statement is supported by cited evidence. The three-layer verifier in this project implements a domain-specific version of AIS: Layer 1 checks source identification, Layer 2 checks claim accuracy, and Layer 3 checks evidential support. Min et al. [10] further demonstrate that automatic faithfulness metrics correlate poorly with human judgments in complex domains, consistent with the finding that automated holding-accuracy verification achieved near-zero agreement with expert labels.
+Bohnet et al. [8] introduce Attributed Question Answering, where every generated claim must be traceable to a specific source passage. Rashkin et al. [9] propose the Attributable to Identified Sources (AIS) framework, which evaluates whether each generated statement is supported by cited evidence. The three-layer verifier in this project implements a domain-specific version of AIS: Layer 1 checks source identification, Layer 2 checks claim accuracy, and Layer 3 checks evidential support. Min et al. [10] introduced FActScore, an automated factuality metric that closely approximates human judgments on biographical text. By contrast, the TF-IDF-based holding verifier in this project achieved near-zero agreement with adjudicated labels, indicating that the particular lexical method and limited source evidence used here did not discriminate holding accuracy. Whether more capable automated approaches (e.g., embedding-based or LLM-as-judge) can succeed in the legal domain remains an open question.
 
 ### 1.4 AI Regulation and Judicial Use
 
-The EU AI Act [11] classifies AI systems used in the administration of justice as high-risk, requiring conformity assessments, human oversight, and transparency obligations. The UK Judicial Office [12] published guidance in December 2023 permitting judges to use AI tools for summarisation but warning against reliance on AI-generated legal research without independent verification. The UK AI Security Institute, which funded the Hercules project, has emphasised the need for structured evaluation of AI systems before deployment in public-sector contexts. These regulatory and institutional developments provide direct policy relevance for the audit methodology developed in this project.
+The EU AI Act [11] classifies AI systems used in the administration of justice as high-risk, requiring conformity assessments, human oversight, and transparency obligations. The UK Judicial Office [12] published AI guidance for judges, most recently updated in October 2025, permitting AI tools for summarisation but warning against reliance on AI-generated legal research without independent verification and expanding coverage of bias and hallucination risks. The UK AI Security Institute, which funded the Hercules project, has emphasised the need for structured evaluation of AI systems before deployment in public-sector contexts. These regulatory and institutional developments provide direct policy relevance for the audit methodology developed in this project.
 
 ### References (Supporting Material)
 
@@ -38,7 +38,7 @@ The EU AI Act [11] classifies AI systems used in the administration of justice a
 
 [2] Y. Zhang et al., "Siren's song in the AI ocean: A survey on hallucination in large language models," arXiv:2309.01219, 2023.
 
-[3] H. Zhong et al., "How does NLP benefit legal system: A summary of laws," in *Proc. ACL*, 2020.
+[3] H. Zhong et al., "How does NLP benefit legal system: A summary of legal artificial intelligence," in *Proc. ACL*, 2020.
 
 [4] I. Chalkidis et al., "LEGAL-BERT: The muppets straight out of law school," in *Findings of EMNLP*, 2020.
 
@@ -56,7 +56,7 @@ The EU AI Act [11] classifies AI systems used in the administration of justice a
 
 [11] European Parliament, "Regulation (EU) 2024/1689 (Artificial Intelligence Act)," 2024.
 
-[12] UK Judicial Office, "AI: Judicial guidance," Dec. 2023.
+[12] UK Judicial Office, "AI: Judicial guidance," Oct. 2025.
 
 ---
 
@@ -107,7 +107,7 @@ All source data was frozen on 31 August 2026, with SHA-256 checksums recorded in
 
 AI systems that generate draft judgments operate in a domain where errors have direct consequences for individuals' rights and liberties. A misrepresented holding could lead a decision-maker to apply the wrong legal principle, with real consequences for the parties involved. The ethical imperative is therefore not merely to measure accuracy but to ensure that any deployment includes safeguards against over-reliance.
 
-This project did not involve human participants in the research-ethics sense: the data analysed consists of system-generated draft judgments, not personal data. However, the skeleton arguments used as inputs to Hercules include real case names and party names from publicly available court records. These were handled in accordance with the principle that publicly available legal documents do not require anonymisation, consistent with the open-justice principle that underpins BAILII and other legal databases.
+Ethics clearance was obtained from the CEBE Ethics Committee for Taught Courses (ECTC) on 2 September 2026, confirming that the project does not involve human participants. The data analysed consists of system-generated draft judgments, not personal data. However, the skeleton arguments used as inputs to Hercules include real case names and party names from publicly available court records. These were handled in accordance with the principle that publicly available legal documents do not require anonymisation, consistent with the open-justice principle that underpins BAILII and other legal databases.
 
 The Cambridge Law Corpus, referenced as a comparison dataset, was published under a research licence with restrictions on redistribution. This project did not use the corpus directly but cited it as contextual background for the Hercules knowledge base.
 
@@ -125,7 +125,7 @@ Access to justice is a further consideration. Proponents of legal AI argue that 
 
 ### 3.4 Sustainability
 
-The environmental cost of large language model inference is a recognised concern. Each Hercules draft judgment requires multiple API calls to GPT-4o-mini for retrieval, chunking, and generation. The annotation prefill step in this project also used GPT-4o-mini. While the per-query cost is modest, scaled deployment for judicial use would involve substantial cumulative computation. The project did not measure energy consumption directly, but acknowledges that any deployment decision should weigh the environmental cost of continuous LLM inference against the administrative savings achieved.
+The environmental cost of large language model inference is a recognised concern. Each Hercules draft judgment requires multiple API calls: Qdrant handles vector retrieval, while GPT-4o-mini performs chunking and generation. The annotation prefill step in this project also used GPT-4o-mini. While the per-query cost is modest, scaled deployment for judicial use would involve substantial cumulative computation. The project did not measure energy consumption directly, but acknowledges that any deployment decision should weigh the environmental cost of continuous LLM inference against the administrative savings achieved.
 
 ---
 
@@ -156,7 +156,7 @@ The corpus registry coverage was limited. Of 33 distinct case-law authorities, o
 With more time, three changes would strengthen the project:
 
 1. **Run the controlled experiments.** Varying retrieval depth (top-5 vs top-20 chunks) and model choice (GPT-4o vs GPT-4o-mini) would isolate whether the failures are retrieval-driven or generation-driven.
-2. **Inter-rater agreement before adjudication.** Cohen's Kappa between R1 and R2 was computed and reported in the paper: holding agreement 84.0% (kappa = 0.74, substantial), grounding agreement 40.8% (kappa = 0.054, slight). Because R2 was AI-assisted, these values are reported descriptively rather than as independent inter-human reliability.
+2. **Recruit an independent human second reviewer.** R2 was AI-assisted (GPT-4o-mini prefill with human correction), so the R1-vs-R2 kappa values are descriptive rather than true inter-human reliability. An independent legal reviewer (R3) was approached but feedback was not received within the project timeline. A fully independent second annotator would have strengthened the reliability claim for the ground-truth labels.
 3. **Use a larger and more diverse sample.** The 59-judgment dataset is a convenience sample from a single system configuration. A larger sample, including judgments from different legal domains, would improve generalisability.
 
 ### 4.5 Lessons Learned

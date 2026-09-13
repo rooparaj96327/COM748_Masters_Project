@@ -47,7 +47,7 @@ September 2026
 | Magesh et al. (2024) | Found leading AI legal research tools hallucinate 17-33% of the time |
 | Maynez et al. (2020) | Showed abstractive summarisation produces intrinsic and extrinsic hallucinations |
 | Ji et al. (2023) | Comprehensive survey of hallucination in natural language generation |
-| UK Judicial Office (2023) | Permits AI for summarisation but warns against reliance without verification |
+| UK Judicial Office (2025) | Permits AI for summarisation but warns against reliance without verification |
 
 **Gap:** No structured citation-level audit of a legal-AI system generating full draft judgments.
 
@@ -113,7 +113,7 @@ September 2026
 
 ## SLIDE 7: Results - Layer 1: Citation Provenance
 
-**Zero fabricated cases** out of 33 distinct case-law authorities verified against BAILII.
+**No fabricated case was confirmed** out of 33 distinct case-law authorities verified against BAILII (32 located externally, 1 ambiguous).
 
 **But 53.6% of citations had no provenance trail:**
 
@@ -185,7 +185,7 @@ September 2026
 | Layer | Accuracy | Kappa | Interpretation |
 |---|---|---|---|
 | Citation status | 87.8% | 0.80 | Substantial agreement - automation works |
-| Holding accuracy | 4.1% | 0.04 | Near-zero - automation fails |
+| Holding accuracy | 4.1% | 0.04 | Slight - automation fails |
 | Reasoning grounding | 85.7% | 0.24 | Fair - dominated by majority class |
 
 **Key finding:** Citation existence is automatable. Holding accuracy requires human legal expertise. There is no shortcut.
@@ -196,9 +196,9 @@ September 2026
 
 **No fabricated case was confirmed in this sample. That makes it more dangerous, not less.**
 
-- Zero fabrications out of 33 case-law authorities
+- No fabricated case confirmed out of 33 case-law authorities (1 ambiguous)
 - A citation existence check would give it a clean bill of health
-- But 50% of holdings are wrong and 85.7% of reasoning is ungrounded
+- But 50% of holdings are partially or fully inaccurate and 85.7% of reasoning is ungrounded
 
 **Why this matters:**
 - The output looks credible: real cases, confident language, conventional legal writing
